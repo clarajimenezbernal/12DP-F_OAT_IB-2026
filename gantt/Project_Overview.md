@@ -22,10 +22,10 @@ Comprehend Ornithine Aminotransferase deficiency from a genetic, biological, and
 
 ### **MILESTONES:**
 
-M1: Project scope, overview and objectives defined
-M2: Create an updated and completed database research
-M3: Establish the analysis and interpretation of OAT and its variants
-M4: Final project revised and completed
+M1: Project scope, overview and objectives defined.  
+M2: Create an updated and completed database research.  
+M3: Establish the analysis and interpretation of OAT and its variants.  
+M4: Final project revised and completed.  
 
 ### **PROJECT MEMBERS:**
 
