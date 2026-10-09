@@ -1,5 +1,8 @@
 <div align="center">
-# **Project Overview**
+
+# **PROJECT OVERVIEW**
+
+</div>
 
 ### **PROJECT NAME:**
 
