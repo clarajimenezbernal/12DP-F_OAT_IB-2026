@@ -11,7 +11,7 @@
 ## **Keywords**
 
 ## **Background**
-OAT is a genetic disease
+OAT is a genetic disease 
 ## **Results**
 
 ## **Discussion**
@@ -19,6 +19,7 @@ OAT is a genetic disease
 ## **Methods**
 
 ## **Abbreviations**
+Human Ornithine Aminotransferase (hOAT), Ornithine Aminotransferase (OAT), Gyrate Atrophy (GA), 
 
 ## **Declarations**
 
