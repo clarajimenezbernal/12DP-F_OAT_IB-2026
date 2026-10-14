@@ -11,6 +11,9 @@
 ## **Keywords**
 
 ## **Background**
+
+Human Ornithine Aminotransferase (hOAT), otherwise known as ornithine δ-aminotransferase (δ-OAT),  is an enzyme found mostly concentrated in the liver, intestines and kidneys. Its main biological function is to maintain the ornithine level in mitochondria stable. Ornithine is an amino acid found in the liver that converts a toxic chemical, nitrogen metabolite ammonia, into urea, an organic waste. Ornithine Aminotransferase Deficiency can result in hyperammonia in the neonatal stages of life, which leads to seizures and mental disorders. On the other hand, in older children, its deficiency causes a rare recessive inherited disease that causes progressive vision loss called Gyrate Atrophy.
+
 WP 4 --> 4.2
 In order to obtain a wider vision of what the mutation and corresponding disease entail, there has been research throughout the project involving non-human species also affected by said mutation. In this case, the two organisms chosen were Toxoplasma gondii and Rattus norvegicus. The sequence from the two was extracted media Blast in a FASTA file from both their CDS in the form of a nucleotide chain and their protein which showcasts amino acids. 
 
