@@ -17,6 +17,8 @@ In order to obtain a wider vision of what the mutation and corresponding disease
 The first species, Toxoplasma gondii, was given by the organisation of the project. The organism is a protozoan parasite of only 13 chromosomes responsible for the very famous disease toxoplasmosis which, according to the National Institute of Health, around 35% of the population carries. This parasite is only able to carry out sexual reproduction while being inside the intestine of a feline. However, it can still infect all mammals. 
 
 It is quite relevant for it to be studied during this assignment because the organism presents its own Ornithine Aminotransferase enzyme and, moreover, scientists have been able to carry out a significantly extensive research on the parasite due to the fact that it is accessible for them to cultivate it in a petri dish inside a lab. 
+
+The other species, Rattus norvegicus, was chosen because of its affinity with the human OAT sequence, both for the CDS and the protein. Rattus norvegicus, more commonly known as the domestic brown rat, is a small rodent the DNA of which is arranged into 42 chromosomes. These animals live in urban areas all around the world and reproduce sexually throughout the months between march and october. 
 ## **Results**
 
 ## **Discussion**
