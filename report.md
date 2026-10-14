@@ -15,7 +15,9 @@
 Human Ornithine Aminotransferase (hOAT), otherwise known as ornithine δ-aminotransferase (δ-OAT),  is an enzyme found mostly concentrated in the liver, intestines and kidneys. Its main biological function is to maintain the ornithine level in mitochondria stable. Ornithine is an amino acid found in the liver that converts a toxic chemical, nitrogen metabolite ammonia, into urea, an organic waste. Ornithine Aminotransferase Deficiency can result in hyperammonia in the neonatal stages of life, which leads to seizures and mental disorders. On the other hand, in older children, its deficiency causes a rare recessive inherited disease that causes progressive vision loss called Gyrate Atrophy.
 
 Gyrate atrophy of the choroid and retina (GACR) is a rare disease inherited in an autosomal recessive manner. Although the OAT protein functions in mitochondria, the OAT gene is located on an autosome rather than in mitochondrial DNA. Therefore, the disease does not follow maternal mitochondrial inheritance.
+
 According to Palmer et al. (2023), the median age at diagnosis among the 18 patients included in their study was 8 years. Common initial manifestations include myopia and night vision problems. As the disease progresses, patients may develop a gradual loss of peripheral visual field, which can eventually lead to severe visual impairment.
+
 Currently, there is no definitive cure for GACR. However, dietary interventions aimed at reducing plasma ornithine levels may help manage the condition and potentially slow disease progression.
 
 
@@ -40,3 +42,6 @@ Human Ornithine Aminotransferase (hOAT), Ornithine Aminotransferase (OAT), Gyrat
 
 ## **References**
 
+Kaczmarczyk A, Baker M, Diddle J, Yuzyuk T, Valle D, Lindstrom K. A neonate with ornithine aminotransferase deficiency; insights on the hyperammonemia-associated biochemical phenotype of gyrate atrophy. Mol Genet Metab Rep. 2022;31:100857. Published 2022 Mar 16. doi:10.1016/j.ymgmr.2022.100857
+
+Palmer E, Stepien KM, Campbell C, et al. Clinical, biochemical and molecular analysis in a cohort of individuals with gyrate atrophy. Orphanet J Rare Dis. 2023;18(1):265. Published 2023 Sep 4. doi:10.1186/s13023-023-02840-0
