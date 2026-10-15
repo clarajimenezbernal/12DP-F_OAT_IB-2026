@@ -6,6 +6,8 @@
 
 </div>
 
+<p align="justify">
+
 ## **Abstract**
 
 ## **Keywords**
@@ -45,3 +47,5 @@ Human Ornithine Aminotransferase (hOAT), Ornithine Aminotransferase (OAT), Gyrat
 Kaczmarczyk A, Baker M, Diddle J, Yuzyuk T, Valle D, Lindstrom K. A neonate with ornithine aminotransferase deficiency; insights on the hyperammonemia-associated biochemical phenotype of gyrate atrophy. Mol Genet Metab Rep. 2022;31:100857. Published 2022 Mar 16. doi:10.1016/j.ymgmr.2022.100857
 
 Palmer E, Stepien KM, Campbell C, et al. Clinical, biochemical and molecular analysis in a cohort of individuals with gyrate atrophy. Orphanet J Rare Dis. 2023;18(1):265. Published 2023 Sep 4. doi:10.1186/s13023-023-02840-0
+
+</p>
