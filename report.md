@@ -85,4 +85,5 @@ Kaczmarczyk A, Baker M, Diddle J, Yuzyuk T, Valle D, Lindstrom K. A neonate with
 
 Palmer E, Stepien KM, Campbell C, et al. Clinical, biochemical and molecular analysis in a cohort of individuals with gyrate atrophy. Orphanet J Rare Dis. 2023;18(1):265. Published 2023 Sep 4. doi:10.1186/s13023-023-02840-0
 
+Storici P, Capitani G, Müller R, Schirmer T, Jansonius JN. Crystal structure of human ornithine aminotransferase complexed with the highly specific and potent inhibitor 5-fluoromethylornithine. J Mol Biol. 1999;285(1):297-309. doi:10.1006/jmbi.1998.2289
 </div>
