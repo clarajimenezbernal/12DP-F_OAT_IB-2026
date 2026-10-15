@@ -6,7 +6,7 @@
 
 </div>
 
-<p align="justify">
+<div align="justify">
 
 ## **Abstract**
 
@@ -48,4 +48,4 @@ Kaczmarczyk A, Baker M, Diddle J, Yuzyuk T, Valle D, Lindstrom K. A neonate with
 
 Palmer E, Stepien KM, Campbell C, et al. Clinical, biochemical and molecular analysis in a cohort of individuals with gyrate atrophy. Orphanet J Rare Dis. 2023;18(1):265. Published 2023 Sep 4. doi:10.1186/s13023-023-02840-0
 
-</p>
+</div>
