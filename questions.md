@@ -36,3 +36,12 @@ No, not all nucleotide variants correspond to an amino-acid sequence variant bec
 **Q18: Do the three species appear more similar at the CDS or protein level? Why?**
 The three species appear more similar at the CDS level because of what has already been explained above. The change in one nucleotide does not necessarily mean the change in the amino-acid. Amino-acids are defined by codons, which are groups of three nucleotides. However, not all combinations of three nucleotides have their own corresponding amino-acid. Each amino-acid is usually paired with between 2 and 4 different codons.
 
+**Q19: Why might some protein positions remain conserved during evolution? Using your project research, do you know whether any of these conserved regions have a known function?**
+
+Some regions remain conserved because its changes are probable to harm the protein, so natural selection tends to eliminate those changes. We know that Arg180 is conserved in all of the species and it it part of the active site of the protein. 
+
+**Q20: Is the human disease-associated variant located in a conserved region? Using your project research, what is known about the function of this region of the protein?**
+
+The change we saw from Arginine to Threonine is located in a conserved region. Arginine is part of the active site of the protein. **_Its function is to take part in substrate recognition in the active site, through a salt bridge with the alpha-carboxylate group_**
+
+
