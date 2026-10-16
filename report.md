@@ -43,9 +43,22 @@ The other species, Rattus norvegicus, was chosen because of its affinity with th
 
 
 
-Because Toxoplasma gondii is evolutionarily distant from mammals, its nucleotide and protein sequences showed too many differences, making it difficult to identify regions conserved across species. An additional comparison was therefore added, using the sequences of Pongo abelii.
+Because Toxoplasma gondii is evolutionarily distant from mammals, its nucleotide and protein sequences showed too many differences, making it difficult to identify regions conserved across species. Therefore, Pongo abelii (the Sumatran orangutan) was included as an additional species because of its closer evolutionary relationship to humans. This comparison allows for a clearer identification of conserved regions in both nucleotide and protein sequences.
 
-Pongo abelii (the Sumatran orangutan) is evolutionarily much closer to humans, and its sequences were highly similar and conserved. In the nucleotide sequence, there were several instances where the human and P. abelii sequences coincided over 60 nucleotides (for example, human positions 1281 to 1440), which made the conserved regions easier to distinguish. In total, three highly conserved regions were found between the human nucleotide sequence and those of P. abelii and Rattus norvegicus:
+
+
+
+### _Structure_
+
+## **Results**
+
+
+
+
+
+The multiple sequence alignment results showed that the addition of Pongo abelii to the comparison with human OAT and Rattus norvegicus facilitated the identification of highly conserved regions in both nucleotide and protein sequences.
+
+In the nucleotide sequence, there were several instances where the human and P. abelii sequences coincided over 60 nucleotides (for example, human positions 1281 to 1440), which made the conserved regions easier to distinguish. In total, three highly conserved regions were found between the human nucleotide sequence and those of P. abelii and Rattus norvegicus:
 
 - Human positions 901 to 960 (query 16), with only one difference in P. abelii and four in R. norvegicus.
   
@@ -57,7 +70,7 @@ Furthermore, in several positions a substitution occurred in both species at the
 
 The analysis of the protein sequences also revealed similarities between the human and orangutan sequences, and again three highly conserved regions were identified:
 
-- Positions 102 to 166 (queries 2 and 3), where the orangutan is identical and the rat has only two variants.
+- Aminoacids positions 102 to 166 (queries 2 and 3), where the orangutan is identical and the rat has only two variants.
   
 - Positions 241 to 300 (query 5), with one difference in P. abelii and two in R. norvegicus.
   
@@ -65,19 +78,25 @@ The analysis of the protein sequences also revealed similarities between the hum
   
 Additionally, there were four positions where both species had variants (the last three also shared with T. gondii): 2, 180, 353 and 389.
 
-
-### _Structure_
-
-## **Results**
-
 ## **Discussion**
 
 ## **Methods**
 
+Scientific literature was consulted through databases such as PubMed to gather information about OAT, OAT deficiency and its associated disease, as well as the functional roles of specific amino acids, including Arg180.
+
+BLAST was used to verify that the provided wild-type and mutant nucleotide and protein sequences corresponded to human OAT. The results were evaluated using parameters such as accession type , query coverage and E-value. The information associated with the BLAST results was also examined to identify the gene and determine its chromosomal location and locus.
+
+The wild-type nucleotide and protein sequences were then used to identify homologous sequences from other species. BLAST searches were performed by specifying the organism of interest, allowing the identification of OAT homologues in Rattus norvegicus, Pongo abelii and Toxoplasma gondii.
+
+Sequence alignments were performed to compare the wild-type and mutant human sequences and to examine differences associated with the mutation. Multiple sequence alignments were also used to compare the human wild-type sequences with their homologues from the other species, identifying similarities and conserved regions at both the nucleotide and protein levels.
+
 ## **Abbreviations**
+
 Human Ornithine Aminotransferase (hOAT), Ornithine Aminotransferase (OAT), Gyrate Atrophy (GACR), Coding DNA Sequence (CDS)
 
 ## **Declarations**
+
+The materials used in this study consisted of FASTA files containing the wild-type and mutant nucleotide and protein sequences of human ornithine aminotransferase (OAT). These sequences were provided as the initial material for the investigation of OAT deficiency.
 
 ## **References**
 
