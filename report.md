@@ -82,9 +82,9 @@ Additionally, there were four positions where both species had variants (the las
 
 ## **Methods**
 
-Scientific literature was consulted through databases such as PubMed to gather information about OAT, OAT deficiency and its associated disease, as well as the functional roles of specific amino acids, including Arg180.
+Scientific literature was consulted through databases such as PubMed and MeSH to gather information about OAT, OAT deficiency and its associated disease, as well as the functional roles of specific amino acids, including Arg180.
 
-BLAST was used to verify that the provided wild-type and mutant nucleotide and protein sequences corresponded to human OAT. The results were evaluated using parameters such as accession type , query coverage and E-value. The information associated with the BLAST results was also examined to identify the gene and determine its chromosomal location and locus.
+BLAST was used to verify that the provided wild-type and mutant nucleotide and protein sequences corresponded to human OAT. The results were evaluated using parameters such as accession type , query coverage and E-value. The information associated with the BLAST results was also examined to identify the gene and determine its chromosomal location and locus, using additional databases such as OMIM
 
 The wild-type nucleotide and protein sequences were then used to identify homologous sequences from other species. BLAST searches were performed by specifying the organism of interest, allowing the identification of OAT homologues in Rattus norvegicus, Pongo abelii and Toxoplasma gondii.
 
@@ -105,4 +105,6 @@ Kaczmarczyk A, Baker M, Diddle J, Yuzyuk T, Valle D, Lindstrom K. A neonate with
 Palmer E, Stepien KM, Campbell C, et al. Clinical, biochemical and molecular analysis in a cohort of individuals with gyrate atrophy. Orphanet J Rare Dis. 2023;18(1):265. Published 2023 Sep 4. doi:10.1186/s13023-023-02840-0
 
 Storici P, Capitani G, Müller R, Schirmer T, Jansonius JN. Crystal structure of human ornithine aminotransferase complexed with the highly specific and potent inhibitor 5-fluoromethylornithine. J Mol Biol. 1999;285(1):297-309. doi:10.1006/jmbi.1998.2289
+
+Online Mendelian Inheritance in Man. Gyrate atrophy of choroid and retina; GACR (MIM #258870). BMC Bioinformatics. 2026;27(1):205.
 </div>
