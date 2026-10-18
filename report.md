@@ -28,6 +28,9 @@ The BLAST results that came from inserting the protein sequences into said websi
 
 Between Arginine and Threonine there are some differing properties that are worth mentioning. Whereas Arginine is a large molecule with a 174.20 g/mol molecular weight, Threonine is considered to be small to medium and its molecular weight is 119.12 g/mol. The reason for this is that the first molecule features a long 3-carbon aliphatic chain ending in a complex guanidino group and the second one only a short hydroxyethyl group.
 
+Also, Arginine is highly polar and amphipathic whereas Threonine is only polar. Arginine’s guanidino group is very hydrophilic but its carbon backbone offers a slight hydrophobic character closer to the main chain. Threonine is polar because its side chain contains a hydrophilic hydroxyl group (-OH) which is capable of forming hydrogen bonds. At a neutral pH, Arginine has a positive charge and side chain, which is very basic, stays protonated under physiological conditions. Threonine, on the other hand, does not have a charge and its side chain is neither acidic nor basic. 
+
+
 
 ###  _Homologs_
 
