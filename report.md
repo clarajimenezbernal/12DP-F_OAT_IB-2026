@@ -26,6 +26,9 @@ Currently, there is no definitive cure for GACR. However, dietary interventions 
 ### _Genomics_
 The BLAST results that came from inserting the protein sequences into said website showed a handful of information. First of all, the mutant protein and the wild type protein are not the same type. While the wild type is Arginine, the mutant type is Threonine. However, the mutation at protein level is considered synonymous because the amino-acid codified by the original codon and the mutated codon is the same one.  
 
+Between Arginine and Threonine there are some differing properties that are worth mentioning. Whereas Arginine is a large molecule with a 174.20 g/mol molecular weight, Threonine is considered to be small to medium and its molecular weight is 119.12 g/mol. The reason for this is that the first molecule features a long 3-carbon aliphatic chain ending in a complex guanidino group and the second one only a short hydroxyethyl group.
+
+
 ###  _Homologs_
 
 In order to obtain a wider vision of what the mutation and corresponding disease entail, there has been research throughout the project involving non-human species also affected by said mutation. In this case, the two organisms chosen were Toxoplasma gondii and Rattus norvegicus. The sequence from the two was extracted media Blast in a FASTA file from both their CDS in the form of a nucleotide chain and their protein which showcasts amino acids. 
