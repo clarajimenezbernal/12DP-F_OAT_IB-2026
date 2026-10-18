@@ -30,6 +30,9 @@ Between Arginine and Threonine there are some differing properties that are wort
 
 Also, Arginine is highly polar and amphipathic whereas Threonine is only polar. Arginine’s guanidino group is very hydrophilic but its carbon backbone offers a slight hydrophobic character closer to the main chain. Threonine is polar because its side chain contains a hydrophilic hydroxyl group (-OH) which is capable of forming hydrogen bonds. At a neutral pH, Arginine has a positive charge and side chain, which is very basic, stays protonated under physiological conditions. Threonine, on the other hand, does not have a charge and its side chain is neither acidic nor basic. 
 
+Threonine and Arginine have different conformational freedom. Threonine has a very small amount of freedom due to the fact that it has a ramification formed by a hydroxyl group and a methyl group and that causes it to collide with the main structure of the protein when it is trying to rotate. Biologically, that means it is a very rigid molecule and is able to maintain the -OH group facing a specific direction which is great for phosphorylation. Arginine, however, is the opposite. It has a very high conformational freedom because it has a linear chain which means that all four angles of the molecule are free. This allows the molecule to bend and move in order to latch onto other molecules such as DNA. Nonetheless, this also means that the bonds must be really strong (like multiple hydrogen bonds) in order for the molecule to stay still. 
+
+
 
 
 ###  _Homologs_
