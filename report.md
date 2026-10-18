@@ -24,6 +24,7 @@ According to Palmer et al. (2023), the median age at diagnosis among the 18 pati
 Currently, there is no definitive cure for GACR. However, dietary interventions aimed at reducing plasma ornithine levels may help manage the condition and potentially slow disease progression.
 
 ### _Genomics_
+The BLAST results that came from inserting the protein sequences into said website showed a handful of information. First of all, the mutant protein and the wild type protein are not the same type. While the wild type is Arginine, the mutant type is Threonine. However, the mutation at protein level is considered synonymous because the amino-acid codified by the original codon and the mutated codon is the same one.  
 
 ###  _Homologs_
 
