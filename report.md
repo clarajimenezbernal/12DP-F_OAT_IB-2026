@@ -32,8 +32,7 @@ Also, Arginine is highly polar and amphipathic whereas Threonine is only polar. 
 
 Threonine and Arginine have different conformational freedom. Threonine has a very small amount of freedom due to the fact that it has a ramification formed by a hydroxyl group and a methyl group and that causes it to collide with the main structure of the protein when it is trying to rotate. Biologically, that means it is a very rigid molecule and is able to maintain the -OH group facing a specific direction which is great for phosphorylation. Arginine, however, is the opposite. It has a very high conformational freedom because it has a linear chain which means that all four angles of the molecule are free. This allows the molecule to bend and move in order to latch onto other molecules such as DNA. Nonetheless, this also means that the bonds must be really strong (like multiple hydrogen bonds) in order for the molecule to stay still. 
 
-
-
+This substitution can also change the interactions that happen between these molecules and other ones. Because Arginine is polar, it is able to form salt bridges. However, Threonine is neutral (or apolar) and, therefore, there is a loss of salt bridges. 
 
 ###  _Homologs_
 
