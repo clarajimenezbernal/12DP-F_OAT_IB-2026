@@ -24,31 +24,29 @@ According to Palmer et al. (2023), the median age at diagnosis among the 18 pati
 Currently, there is no definitive cure for GACR. However, dietary interventions aimed at reducing plasma ornithine levels may help manage the condition and potentially slow disease progression.
 
 ### _Genomics_
-The BLAST results that came from inserting the protein sequences into said website showed a handful of information. First of all, the mutant protein and the wild type protein are not the same type. While the wild type is Arginine, the mutant type is Threonine. However, the mutation at protein level is considered synonymous because the amino-acid codified by the original codon and the mutated codon is the same one.  
+The BLAST results that came from inserting the protein sequences into said website showed a handful of information. First of all, the mutant protein and the wild type protein are not the same type. While the wild type is Arginine, the mutant type is Threonine. However, the mutation at the protein level is considered synonymous because the amino acid codified by the original codon and the mutated codon are the same ones.  
 
 Between Arginine and Threonine there are some differing properties that are worth mentioning. Whereas Arginine is a large molecule with a 174.20 g/mol molecular weight, Threonine is considered to be small to medium and its molecular weight is 119.12 g/mol. The reason for this is that the first molecule features a long 3-carbon aliphatic chain ending in a complex guanidino group and the second one only a short hydroxyethyl group.
 
-Also, Arginine is highly polar and amphipathic whereas Threonine is only polar. Arginine’s guanidino group is very hydrophilic but its carbon backbone offers a slight hydrophobic character closer to the main chain. Threonine is polar because its side chain contains a hydrophilic hydroxyl group (-OH) which is capable of forming hydrogen bonds. At a neutral pH, Arginine has a positive charge and side chain, which is very basic, stays protonated under physiological conditions. Threonine, on the other hand, does not have a charge and its side chain is neither acidic nor basic. 
+Also, Arginine is highly polar and amphipathic whereas Threonine is only polar. Arginine’s guanidino group is very hydrophilic, but its carbon backbone offers a slight hydrophobic character closer to the main chain. Threonine is polar because its side chain contains a hydrophilic hydroxyl group (-OH) which is capable of forming hydrogen bonds. At a neutral pH, Arginine has a positive charge and side chain, which is very basic, stays protonated under physiological conditions. Threonine, on the other hand, does not have a charge and its side chain is neither acidic nor basic. 
 
-Threonine and Arginine have different conformational freedom. Threonine has a very small amount of freedom due to the fact that it has a ramification formed by a hydroxyl group and a methyl group and that causes it to collide with the main structure of the protein when it is trying to rotate. Biologically, that means it is a very rigid molecule and is able to maintain the -OH group facing a specific direction which is great for phosphorylation. Arginine, however, is the opposite. It has a very high conformational freedom because it has a linear chain which means that all four angles of the molecule are free. This allows the molecule to bend and move in order to latch onto other molecules such as DNA. Nonetheless, this also means that the bonds must be really strong (like multiple hydrogen bonds) in order for the molecule to stay still. 
+Threonine and Arginine have different conformational freedoms. Threonine has a very small amount of freedom due to the fact that it has a ramification formed by a hydroxyl group and a methyl group, which causes it to collide with the main structure of the protein when it is trying to rotate. Biologically, that means it is a very rigid molecule and is able to maintain the O-H group facing a specific direction, which is great for phosphorylation. Arginine, however, is the opposite. It has a very high conformational freedom because it has a linear chain, which means that all four angles of the molecule are free. This allows the molecule to bend and move in order to latch onto other molecules such as DNA. Nonetheless, this also means that the bonds must be really strong (like multiple hydrogen bonds) in order for the molecule to stay still. 
 
 This substitution can also change the interactions that happen between these molecules and other ones. Because Arginine is polar, it is able to form salt bridges. However, Threonine is neutral (or apolar) and, therefore, there is a loss of salt bridges. 
 
 ###  _Homologs_
 
-In order to obtain a wider vision of what the mutation and corresponding disease entail, there has been research throughout the project involving non-human species also affected by said mutation. In this case, the two organisms chosen were Toxoplasma gondii and Rattus norvegicus. The sequence from the two was extracted media Blast in a FASTA file from both their CDS in the form of a nucleotide chain and their protein which showcasts amino acids. 
+In order to obtain a wider vision of what the mutation and corresponding disease entail, there has been research throughout the project involving non-human species also affected by said mutation. In this case, the two organisms chosen were _Toxoplasma gondii_ and _Rattus norvegicus_. The sequence from the two was extracted media Blast in a FASTA file from both their CDS in the form of a nucleotide chain and their protein, which showcasts amino acids. 
 
-The first species, Toxoplasma gondii, was given by the organisation of the project. The organism is a protozoan parasite of only 13 chromosomes responsible for the very famous disease toxoplasmosis which, according to the National Institute of Health, around 35% of the population carries. This parasite is only able to carry out sexual reproduction while being inside the intestine of a feline. However, it can still infect all mammals. 
+The first species, _Toxoplasma gondii_, was given by the organisation of the project. The organism is a protozoan parasite of only 13 chromosomes, responsible for the very famous disease toxoplasmosis, which, according to the National Institute of Health, around 35% of the population carries. This parasite is only able to carry out sexual reproduction while being inside the intestine of a feline. However, it can still infect all mammals. 
 
-It is quite relevant for it to be studied during this assignment because the organism presents its own Ornithine Aminotransferase enzyme and, moreover, scientists have been able to carry out a significantly extensive research on the parasite due to the fact that it is accessible for them to cultivate it in a petri dish inside a lab. 
+It is quite relevant for it to be studied during this assignment because the organism presents its own Ornithine Aminotransferase enzyme and, moreover, scientists have been able to carry out a significantly extenseive research on the parasite due to the fact that it is accessible for them to cultivate it in a petri dish inside a lab. 
 
-The other species, Rattus norvegicus, was chosen because of its affinity with the human OAT sequence, both for the CDS and the protein. Rattus norvegicus, more commonly known as the domestic brown rat, is a small rodent the DNA of which is arranged into 42 chromosomes. These animals live in urban areas all around the world and reproduce sexually throughout the months between march and october. 
-
-
+The other species, _Rattus norvegicus_, was chosen because of its affinity with the human OAT sequence, both for the CDS and the protein. _Rattus norvegicus_, more commonly known as the domestic brown rat, is a small rodent, the DNA of which is arranged into 42 chromosomes. These animals live in urban areas all around the world and reproduce sexually throughout the months between March and October. 
 
 
 
-Because Toxoplasma gondii is evolutionarily distant from mammals, its nucleotide and protein sequences showed too many differences, making it difficult to identify regions conserved across species. Therefore, Pongo abelii (the Sumatran orangutan) was included as an additional species because of its closer evolutionary relationship to humans. This comparison allows for a clearer identification of conserved regions in both nucleotide and protein sequences.
+Because _Toxoplasma gondii_ is evolutionarily distant from mammals, its nucleotide and protein sequences showed too many differences, making it difficult to identify regions conserved across species. Therefore, _Pongo abelii_ (the Sumatran orangutan) was included as an additional species because of its closer evolutionary relationship to humans. This comparison allows for a clearer identification of conserved regions in both nucleotide and protein sequences.
 
 ### _Structure_
 
@@ -61,27 +59,27 @@ In order to analyse the protein’s structure, the sequence ID was retrieved fro
 
 
 
-The multiple sequence alignment results showed that the addition of Pongo abelii to the comparison with human OAT and Rattus norvegicus facilitated the identification of highly conserved regions in both nucleotide and protein sequences.
+The multiple sequence alignment results showed that the addition of _Pongo abelii_ to the comparison with human OAT and _Rattus norvegicus_ facilitated the identification of highly conserved regions in both nucleotide and protein sequences.
 
-In the nucleotide sequence, there were several instances where the human and P. abelii sequences coincided over 60 nucleotides (for example, human positions 1281 to 1440), which made the conserved regions easier to distinguish. In total, three highly conserved regions were found between the human nucleotide sequence and those of P. abelii and Rattus norvegicus:
+In the nucleotide sequence, there were several instances where the human and _P. abelii_ sequences coincided with over 60 nucleotides (for example, human positions 1281 to 1440), which made the conserved regions easier to distinguish. In total, three highly conserved regions were found between the human nucleotide sequence and those of _P. abelii_ and _Rattus norvegicus_:
 
-- Human positions 901 to 960 (query 16), with only one difference in P. abelii and four in R. norvegicus.
+- Human positions 901 to 960 (query 16), with only one difference in _P. abelii_ and four in _R. norvegicus_.
   
-- Positions 361 to 420 (query 7), completely identical to P. abelii and with only five differences from R. norvegicus.
+- Positions 361 to 420 (query 7), completely identical to _P. abelii_ and with only five differences from _R. norvegicus_.
   
 - Positions 121 to 180 (query 3), with one difference from the Sumatran orangutan and six from the rat.
 
-Furthermore, in several positions a substitution occurred in both species at the same time, and in most of these cases the substitution was to the same nucleotide (for instance, at position 606, where a guanine is changed to an adenine in both the orangutan and the rat).
+Furthermore, in several positions, a substitution occurred in both species at the same time, and in most of these cases the substitution was in the same nucleotide (for instance, at position 606, where a guanine is changed to an adenine in both the orangutan and the rat).
 
 The analysis of the protein sequences also revealed similarities between the human and orangutan sequences, and again three highly conserved regions were identified:
 
 - Aminoacids positions 102 to 166 (queries 2 and 3), where the orangutan is identical and the rat has only two variants.
   
-- Positions 241 to 300 (query 5), with one difference in P. abelii and two in R. norvegicus.
+- Positions 241 to 300 (query 5), with one difference in _P. abelii_ and two in _R. norvegicus_.
   
 - Positions 181 to 240 (query 4), where only the rat shows four differences.
   
-Additionally, there were four positions where both species had variants (the last three also shared with T. gondii): 2, 180, 353 and 389.
+Additionally, there were four positions where both species had variants (the last three also shared with _T. gondii_): 2, 180, 353 and 389.
 
 ## **Discussion**
 
@@ -89,9 +87,9 @@ Additionally, there were four positions where both species had variants (the las
 
 Scientific literature was consulted through databases such as PubMed and MeSH to gather information about OAT, OAT deficiency and its associated disease, as well as the functional roles of specific amino acids, including Arg180.
 
-BLAST was used to verify that the provided wild-type and mutant nucleotide and protein sequences corresponded to human OAT. The results were evaluated using parameters such as accession type , query coverage and E-value. The information associated with the BLAST results was also examined to identify the gene and determine its chromosomal location and locus, using additional databases such as OMIM
+BLAST was used to verify that the provided wild-type and mutant nucleotide and protein sequences corresponded to human OAT. The results were evaluated using parameters such as accession type, query coverage and E-value. The information associated with the BLAST results was also examined to identify the gene and determine its chromosomal location and locus, using additional databases such as OMIM.
 
-The wild-type nucleotide and protein sequences were then used to identify homologous sequences from other species. BLAST searches were performed by specifying the organism of interest, allowing the identification of OAT homologues in Rattus norvegicus, Pongo abelii and Toxoplasma gondii.
+The wild-type nucleotide and protein sequences were then used to identify homologous sequences from other species. BLAST searches were performed by specifying the organism of interest, allowing the identification of OAT homologues in _Rattus norvegicus_, _Pongo abelii_ and _Toxoplasma gondii_.
 
 Sequence alignments were performed to compare the wild-type and mutant human sequences and to examine differences associated with the mutation. Multiple sequence alignments were also used to compare the human wild-type sequences with their homologues from the other species, identifying similarities and conserved regions at both the nucleotide and protein levels.
 
