@@ -15,7 +15,7 @@
 ## **Background**
 ### _Protein and disease_
 
-Human Ornithine Aminotransferase (hOAT), otherwise known as ornithine δ-aminotransferase (δ-OAT),  is an enzyme found mostly concentrated in the liver, intestines and kidneys. Its main biological function is to maintain the ornithine level in mitochondria stable. Ornithine is an amino acid found in the liver that converts a toxic chemical, nitrogen metabolite ammonia, into urea, an organic waste. Ornithine Aminotransferase Deficiency can result in hyperammonia in the neonatal stages of life, which leads to seizures and mental disorders. On the other hand, in older children, its deficiency causes a rare recessive inherited disease that causes progressive vision loss called Gyrate Atrophy.
+Human Ornithine Aminotransferase (hOAT), otherwise known as ornithine δ-aminotransferase (δ-OAT), is an enzyme found mostly concentrated in the liver, intestines and kidneys. Its main biological function is to maintain the ornithine level in mitochondria stable. OAT is an amino acid found in the liver that converts a toxic chemical, nitrogen metabolite ammonia, into urea, an organic waste. Ornithine Aminotransferase Deficiency can result in hyperammonia in the neonatal stages of life, which leads to seizures and mental disorders. On the other hand, in older children, its deficiency causes a rare recessive inherited disease that causes progressive vision loss called Gyrate Atrophy.
 
 Gyrate atrophy of the choroid and retina (GACR) is a rare disease inherited in an autosomal recessive manner. Although the OAT protein functions in mitochondria, the OAT gene is located on an autosome rather than in mitochondrial DNA. Therefore, the disease does not follow maternal mitochondrial inheritance.
 
@@ -48,16 +48,12 @@ The other species, Rattus norvegicus, was chosen because of its affinity with th
 
 
 
-
-
-
-
 Because Toxoplasma gondii is evolutionarily distant from mammals, its nucleotide and protein sequences showed too many differences, making it difficult to identify regions conserved across species. Therefore, Pongo abelii (the Sumatran orangutan) was included as an additional species because of its closer evolutionary relationship to humans. This comparison allows for a clearer identification of conserved regions in both nucleotide and protein sequences.
 
-
-
-
 ### _Structure_
+
+In order to analyse the protein’s structure, the sequence ID was retrieved from the BLAST website and mapped in the PDB. In this manner, it was determined that the experimental data snapshot was obtained through X-Ray Diffraction, exhibiting an image resolution of 1.93Å.
+
 
 ## **Results**
 
@@ -101,13 +97,15 @@ Sequence alignments were performed to compare the wild-type and mutant human seq
 
 ## **Abbreviations**
 
-Human Ornithine Aminotransferase (hOAT), Ornithine Aminotransferase (OAT), Gyrate Atrophy (GACR), Coding DNA Sequence (CDS)
+Human Ornithine Aminotransferase (hOAT), Ornithine δ-aminotransferase (δ-OAT), Ornithine Aminotransferase (OAT), Gyrate Atrophy (GACR), Coding DNA Sequence (CDS)
 
 ## **Declarations**
 
 The materials used in this study consisted of FASTA files containing the wild-type and mutant nucleotide and protein sequences of human ornithine aminotransferase (OAT). These sequences were provided as the initial material for the investigation of OAT deficiency.
 
 ## **References**
+
+Floriani F, Borri Voltattorni C, Montioli R. Current Insight into Human Ornithine Aminotransferase: A Review. Proteins. 2026;94(8):1431-1441. doi:10.1002/prot.70134
 
 Kaczmarczyk A, Baker M, Diddle J, Yuzyuk T, Valle D, Lindstrom K. A neonate with ornithine aminotransferase deficiency; insights on the hyperammonemia-associated biochemical phenotype of gyrate atrophy. Mol Genet Metab Rep. 2022;31:100857. Published 2022 Mar 16. doi:10.1016/j.ymgmr.2022.100857
 
