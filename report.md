@@ -15,7 +15,7 @@
 ## **Background**
 ### _Protein and disease_
 
-Human Ornithine Aminotransferase (hOAT), otherwise known as ornithine δ-aminotransferase (δ-OAT), is an enzyme found mostly concentrated in the liver, intestines and kidneys. Its main biological function is to maintain the ornithine level in mitochondria stable. OAT is an amino acid found in the liver that converts a toxic chemical, nitrogen metabolite ammonia, into urea, an organic waste. Ornithine Aminotransferase Deficiency can result in hyperammonia in the neonatal stages of life, which leads to seizures and mental disorders. On the other hand, in older children, its deficiency causes a rare recessive inherited disease that causes progressive vision loss called Gyrate Atrophy.
+Human Ornithine Aminotransferase (hOAT), otherwise known as ornithine δ-aminotransferase (δ-OAT), is an enzyme found mostly concentrated in the liver, intestines and kidneys. Its main biological function is to maintain the ornithine level in mitochondria stable. OAT is an amino acid found in the liver that converts a toxic chemical, nitrogen metabolite ammonia, into urea, an organic waste. Ornithine Aminotransferase Deficiency can result in hyperammonia in the neonatal stages of life, which leads to seizures and mental disorders. On the other hand, in older children, its deficiency causes a rare recessive inherited disease that causes progressive vision loss called Gyrate Atrophy (Sun 2017, Floriani 2026).
 
 Gyrate atrophy of the choroid and retina (GACR) is a rare disease inherited in an autosomal recessive manner. Although the OAT protein functions in mitochondria, the OAT gene is located on an autosome rather than in mitochondrial DNA. Therefore, the disease does not follow maternal mitochondrial inheritance.
 
@@ -113,6 +113,9 @@ The materials used in this study consisted of FASTA files containing the wild-ty
 ## **References**
 
 Floriani F, Borri Voltattorni C, Montioli R. Current Insight into Human Ornithine Aminotransferase: A Review. Proteins. 2026;94(8):1431-1441. doi:10.1002/prot.70134
+
+Sun Q. Cerebral creatine deficiency syndromes, In Biomarkers in Inborn Errors of Metabolism: Clinical Aspects and Laboratory Determination. Elsevier,
+2017, pages 331-341
 
 Kaczmarczyk A, Baker M, Diddle J, Yuzyuk T, Valle D, Lindstrom K. A neonate with ornithine aminotransferase deficiency; insights on the hyperammonemia-associated biochemical phenotype of gyrate atrophy. Mol Genet Metab Rep. 2022;31:100857. Published 2022 Mar 16. doi:10.1016/j.ymgmr.2022.100857
 
