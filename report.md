@@ -56,7 +56,9 @@ In order to analyse the protein’s structure, the sequence ID was retrieved fro
 
 
 ## **Results**
+The BLAST results that came from inserting the protein sequences into said website showed a handful of information. First of all, the mutant protein and the wild type amino-acid are not the same type. While the wild type is Arginine, the mutant type is Threonine. Therefore, the mutation is considered to be a substitution because one nucleotide is interchanged by a different one during transcription.
 
+In the molecule, the overall structure and oligomeric state remain the same, which means that the mutation does not carry extremely significant structural changes. However, the change can cause small rearranges such as Gly320’ shifting towards the active site. This can lead to steric interferences with the carboxyl group and make it difficult for the other substrates to bind onto the molecule
   ### _Genomics_
 The BLAST results that came from inserting the protein sequences into said website showed a handful of information. First of all, the mutant protein and the wild type amino-acid are not the same type. While the wild type is Arginine, the mutant type is Threonine. Therefore, the mutation is considered to be a substitution because one nucleotide is interchanged by a different one during transcription. 
 
