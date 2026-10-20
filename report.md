@@ -53,9 +53,11 @@ In order to analyse the protein’s structure, the sequence ID was retrieved fro
 
 ## **Results**
 
+### _Genomics_
 
+The substitution from Argenine into Threonine can also change the interactions that happen between these molecules and other ones. Because Arginine is polar, it is able to form salt bridges. However, Threonine is neutral (or apolar) and, therefore, there is a loss of salt bridges. 
 
-
+###  _Homologs_
 
 The multiple sequence alignment results showed that the addition of _Pongo abelii_ to the comparison with human OAT and _Rattus norvegicus_ facilitated the identification of highly conserved regions in both nucleotide and protein sequences.
 
@@ -79,9 +81,14 @@ The analysis of the protein sequences also revealed similarities between the hum
   
 Additionally, there were four positions where both species had variants (the last three also shared with _T. gondii_): 2, 180, 353 and 389.
 
-### _Genomics_
 
-The substitution from Argenine into Threonine can also change the interactions that happen between these molecules and other ones. Because Arginine is polar, it is able to form salt bridges. However, Threonine is neutral (or apolar) and, therefore, there is a loss of salt bridges. 
+
+### _Structure_
+
+
+
+
+
 
 ## **Discussion**
 
