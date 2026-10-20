@@ -32,8 +32,6 @@ Also, Arginine is highly polar and amphipathic whereas Threonine is only polar. 
 
 Threonine and Arginine have different conformational freedoms. Threonine has a very small amount of freedom due to the fact that it has a ramification formed by a hydroxyl group and a methyl group, which causes it to collide with the main structure of the protein when it is trying to rotate. Biologically, that means it is a very rigid molecule and is able to maintain the O-H group facing a specific direction, which is great for phosphorylation. Arginine, however, is the opposite. It has a very high conformational freedom because it has a linear chain, which means that all four angles of the molecule are free. This allows the molecule to bend and move in order to latch onto other molecules such as DNA. Nonetheless, this also means that the bonds must be really strong (like multiple hydrogen bonds) in order for the molecule to stay still. 
 
-This substitution can also change the interactions that happen between these molecules and other ones. Because Arginine is polar, it is able to form salt bridges. However, Threonine is neutral (or apolar) and, therefore, there is a loss of salt bridges. 
-
 ###  _Homologs_
 
 In order to obtain a wider vision of what the mutation and corresponding disease entail, there has been research throughout the project involving non-human species also affected by said mutation. In this case, the two organisms chosen were _Toxoplasma gondii_ and _Rattus norvegicus_. The sequence from the two was extracted media Blast in a FASTA file from both their CDS in the form of a nucleotide chain and their protein, which showcasts amino acids. 
@@ -80,6 +78,10 @@ The analysis of the protein sequences also revealed similarities between the hum
 - Positions 181 to 240 (query 4), where only the rat shows four differences.
   
 Additionally, there were four positions where both species had variants (the last three also shared with _T. gondii_): 2, 180, 353 and 389.
+
+### _Genomics_
+
+The substitution from Argenine into Threonine can also change the interactions that happen between these molecules and other ones. Because Arginine is polar, it is able to form salt bridges. However, Threonine is neutral (or apolar) and, therefore, there is a loss of salt bridges. 
 
 ## **Discussion**
 
