@@ -23,13 +23,7 @@ According to Palmer et al. (2023), the median age at diagnosis among the 18 pati
 Currently, there is no definitive cure for GACR. However, dietary interventions aimed at reducing plasma ornithine levels may help manage the condition and potentially slow disease progression.
 
 ### _Genomics_
-The BLAST results that came from inserting the protein sequences into said website showed a handful of information. First of all, the mutant protein and the wild type protein are not the same type. While the wild type is Arginine, the mutant type is Threonine. However, the mutation at the protein level is considered synonymous because the amino acid codified by the original codon and the mutated codon are the same ones.  
 
-Between Arginine and Threonine there are some differing properties that are worth mentioning. Whereas Arginine is a large molecule with a 174.20 g/mol molecular weight, Threonine is considered to be small to medium and its molecular weight is 119.12 g/mol. The reason for this is that the first molecule features a long 3-carbon aliphatic chain ending in a complex guanidino group and the second one only a short hydroxyethyl group.
-
-Also, Arginine is highly polar and amphipathic whereas Threonine is only polar. Arginine’s guanidino group is very hydrophilic, but its carbon backbone offers a slight hydrophobic character closer to the main chain. Threonine is polar because its side chain contains a hydrophilic hydroxyl group (-OH) which is capable of forming hydrogen bonds. At a neutral pH, Arginine has a positive charge and side chain, which is very basic, stays protonated under physiological conditions. Threonine, on the other hand, does not have a charge and its side chain is neither acidic nor basic. 
-
-Threonine and Arginine have different conformational freedoms. Threonine has a very small amount of freedom due to the fact that it has a ramification formed by a hydroxyl group and a methyl group, which causes it to collide with the main structure of the protein when it is trying to rotate. Biologically, that means it is a very rigid molecule and is able to maintain the O-H group facing a specific direction, which is great for phosphorylation. Arginine, however, is the opposite. It has a very high conformational freedom because it has a linear chain, which means that all four angles of the molecule are free. This allows the molecule to bend and move in order to latch onto other molecules such as DNA. Nonetheless, this also means that the bonds must be really strong (like multiple hydrogen bonds) in order for the molecule to stay still. 
 
 ###  _Homologs_
 In order to obtain a wider vision of what the mutation and corresponding disease entail, there has been research throughout the project involving non-human species also affected by said mutation. In this case, the two organisms chosen were _Toxoplasma gondii_ and _Rattus norvegicus_. The sequence from the two was extracted media Blast in a FASTA file from both their CDS in the form of a nucleotide chain and their protein, which showcasts amino acids. 
@@ -51,9 +45,21 @@ In order to analyse the protein’s structure, the sequence ID was retrieved fro
 
 ## **Results**
 
-### _Genomics_
+  ### _Genomics_
+The BLAST results that came from inserting the protein sequences into said website showed a handful of information. First of all, the mutant protein and the wild type amino-acid are not the same type. While the wild type is Arginine, the mutant type is Threonine. Therefore, the mutation is considered to be a substitution because one nucleotide is interchanged by a different one during transcription. 
 
-The substitution from Argenine into Threonine can also change the interactions that happen between these molecules and other ones. Because Arginine is polar, it is able to form salt bridges. However, Threonine is neutral (or apolar) and, therefore, there is a loss of salt bridges. 
+Between Arginine and Threonine there are some differing properties that are worth mentioning. Whereas Arginine is a large molecule with a 174.20 g/mol molecular weight, Threonine is considered to be small to medium and its molecular weight is 119.12 g/mol. The reason for this is that the first molecule features a long 3-carbon aliphatic chain ending in a complex guanidino group and the second one only a short hydroxyethyl group.
+
+Also, Arginine is highly polar and amphipathic whereas Threonine is only polar. Arginine’s guanidino group is very hydrophilic but its carbon backbone offers a slight hydrophobic character closer to the main chain. Threonine is polar because its side chain contains a hydrophilic hydroxyl group (-OH) which is capable of forming hydrogen bonds. At a neutral pH, Arginine has a positive charge and side chain, which is very basic, stays protonated under physiological conditions. Threonine, on the other hand, does not have a charge and its side chain is neither acidic nor basic. 
+Threonine and Arginine have different conformational freedom. Threonine has a very small amount of freedom due to the fact that it has a ramification formed by a hydroxyl group and a methyl group and that causes it to collide with the main structure of the protein when it is trying to rotate. Biologically, that means it is a very rigid molecule and is able to maintain the -OH group facing a specific direction which is great for phosphorylation. Arginine, however, is the opposite. It has a very high conformational freedom because it has a linear chain which means that all four angles of the molecule are free. This allows the molecule to bend and move in order to latch onto other molecules such as DNA. Nonetheless, this also means that the bonds must be really strong (like multiple hydrogen bonds) in order for the molecule to stay still. 
+
+This substitution can also change the interactions that happen between these molecules and other ones. Because Arginine is polar, it is able to form salt bridges. However, Threonine is neutral (or apolar) and, therefore, there is a loss of salt bridges. 
+
+In the molecule, the overall structure and oligomeric state remain the same, which means that the mutation does not carry extremely significant structural changes. However, the change can cause small rearranges such as Gly320’ shifting towards the active site. This can lead to steric interferences with the carboxyl group and make it difficult for the other substrates to bind onto the molecule
+
+Also, this ⍺-carboxylate ionic interaction anchors the substrate in the one correct orientation. When Arginine is lost in the mutation, the binding affinity of the carboxyl group for ornithine is also lost. A different Arginine from a different position might intervene and take over.
+
+Therefore, this mutation means two very significant things for the protein. The first one is that it increases its structural stability. The second one is that it disrupts what should be the actual positioning of the substrate in order for the molecule to undergo normal catalysis. Thus, the protein’s ability to recognise a substrate and its reaction specificity are more altered than the actual overall structure.
 
 ###  _Homologs_
 
