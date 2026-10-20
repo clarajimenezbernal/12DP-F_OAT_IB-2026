@@ -14,12 +14,11 @@
 
 ## **Background**
 ### _Protein and disease_
-
 Human Ornithine Aminotransferase (hOAT), otherwise known as ornithine δ-aminotransferase (δ-OAT), is an enzyme found mostly concentrated in the liver, intestines and kidneys. Its main biological function is to maintain the ornithine level in mitochondria stable. OAT is an amino acid found in the liver that converts a toxic chemical, nitrogen metabolite ammonia, into urea, an organic waste. Ornithine Aminotransferase Deficiency can result in hyperammonia in the neonatal stages of life, which leads to seizures and mental disorders. On the other hand, in older children, its deficiency causes a rare recessive inherited disease that causes progressive vision loss called Gyrate Atrophy (Sun 2017, Floriani 2026).
 
 Gyrate atrophy of the choroid and retina (GACR) is a rare disease inherited in an autosomal recessive manner. Although the OAT protein functions in mitochondria, the OAT gene is located on an autosome rather than in mitochondrial DNA. Therefore, the disease does not follow maternal mitochondrial inheritance.
 
-According to Palmer et al. (2023), the median age at diagnosis among the 18 patients included in their study was 8 years. Common initial manifestations include myopia and night vision problems. As the disease progresses, patients may develop a gradual loss of peripheral visual field, which can eventually lead to severe visual impairment.
+According to Palmer et al. (2023), the median age at diagnosis among the 18 patients included in their study was eight years. Common initial manifestations include myopia and night vision problems. As the disease progresses, patients may develop a gradual loss of peripheral visual field, which can eventually lead to severe visual impairment.
 
 Currently, there is no definitive cure for GACR. However, dietary interventions aimed at reducing plasma ornithine levels may help manage the condition and potentially slow disease progression.
 
@@ -33,7 +32,6 @@ Also, Arginine is highly polar and amphipathic whereas Threonine is only polar. 
 Threonine and Arginine have different conformational freedoms. Threonine has a very small amount of freedom due to the fact that it has a ramification formed by a hydroxyl group and a methyl group, which causes it to collide with the main structure of the protein when it is trying to rotate. Biologically, that means it is a very rigid molecule and is able to maintain the O-H group facing a specific direction, which is great for phosphorylation. Arginine, however, is the opposite. It has a very high conformational freedom because it has a linear chain, which means that all four angles of the molecule are free. This allows the molecule to bend and move in order to latch onto other molecules such as DNA. Nonetheless, this also means that the bonds must be really strong (like multiple hydrogen bonds) in order for the molecule to stay still. 
 
 ###  _Homologs_
-
 In order to obtain a wider vision of what the mutation and corresponding disease entail, there has been research throughout the project involving non-human species also affected by said mutation. In this case, the two organisms chosen were _Toxoplasma gondii_ and _Rattus norvegicus_. The sequence from the two was extracted media Blast in a FASTA file from both their CDS in the form of a nucleotide chain and their protein, which showcasts amino acids. 
 
 The first species, _Toxoplasma gondii_, was given by the organisation of the project. The organism is a protozoan parasite of only 13 chromosomes, responsible for the very famous disease toxoplasmosis, which, according to the National Institute of Health, around 35% of the population carries. This parasite is only able to carry out sexual reproduction while being inside the intestine of a feline. However, it can still infect all mammals. 
