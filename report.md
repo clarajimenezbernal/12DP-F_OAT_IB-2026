@@ -62,6 +62,20 @@ Also, this ⍺-carboxylate ionic interaction anchors the substrate in the one co
 Therefore, this mutation means two very significant things for the protein. The first one is that it increases its structural stability. The second one is that it disrupts what should be the actual positioning of the substrate in order for the molecule to undergo normal catalysis. Thus, the protein’s ability to recognise a substrate and its reaction specificity are more altered than the actual overall structure.
 
 ###  _Homologs_
+When working with the sequence alignments of the three original species, which were Homo sapiens, Toxoplasma gondii and Rattus norvegicus, the last two being the homologs, it became obvious that the differences among their protein sequences were abysmal. The longest conserved regions across the three protein sequences are formed by 7 amino-acids. This might not be considered a high conservation but, the three species are too different among them to have any longer coincidental regions. There are only four amino-acids the mutation of which is the same in both Toxoplasma gondii and Rattus norvegicus. 
+
+Also, there are very few sequence positions with variants across the three species. Only four amino-acids the mutation of which is the same in both Toxoplasma gondii and Rattus norvegicus. Furthermore, some regions are more conserved than others. For instance, both the Query range 4: 181 to 240  and the Query range 5: 241 to 300 have 39 amino-acids conserved. However, the Query range 1: 1 to 60 and the Query range 8: 421 to 439 have 7 and 5 amino-acids conserved respectively. 
+
+Query range 1: 1 to 60  has conserved amino-acids
+Query range 2: 61 to 120 has conserved amino-acids
+Query range 3: 121 to 180 has conserved amino-acids
+Query range 4: 181 to 240 has conserved amino-acids
+Query range 5: 241 to 300 has conserved amino-acids
+Query range 6: 301 to 360 has conserved amino-acids
+Query range 7: 361 to 420 has conserved amino-acids
+Query range 8: 421 to 439 has conserved amino-acids
+
+Not all nucleotide variants correspond to an amino-acid sequence variant because one amino-acid can correspond to more than one codon. Therefore, different combinations of nucleotides can lead to the same amino-acid combinations. The three species appear more similar at the CDS level because of what has already been explained above. The change in one nucleotide does not necessarily mean the change in the amino-acid. Amino-acids are defined by codons, which are groups of three nucleotides. However, not all combinations of three nucleotides have their own corresponding amino-acid. Each amino-acid is usually paired with between 2 and 4 different codons.
 
 The multiple sequence alignment results showed that the addition of _Pongo abelii_ to the comparison with human OAT and _Rattus norvegicus_ facilitated the identification of highly conserved regions in both nucleotide and protein sequences.
 
