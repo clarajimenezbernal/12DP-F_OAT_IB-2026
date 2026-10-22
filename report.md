@@ -14,7 +14,7 @@
 
 ## **Background**
 ### _Protein and disease_
-Human Ornithine Aminotransferase (hOAT), otherwise known as ornithine δ-aminotransferase (δ-OAT), is an enzyme found mostly concentrated in the liver, intestines and kidneys. Its main biological function is to maintain the ornithine level in mitochondria stable. OAT is an amino acid found in the liver that converts a toxic chemical, nitrogen metabolite ammonia, into urea, an organic waste. Ornithine Aminotransferase Deficiency can result in hyperammonia in the neonatal stages of life, which leads to seizures and mental disorders. On the other hand, in older children, its deficiency causes a rare recessive inherited disease that causes progressive vision loss called Gyrate Atrophy (Sun 2017, Floriani 2026).
+Human Ornithine Aminotransferase (hOAT), otherwise known as ornithine δ-aminotransferase (δ-OAT), is an enzyme found mostly concentrated in the liver, intestines and kidneys. Its main biological function is to maintain the ornithine level in mitochondria stable. OAT is an amino acid found in the liver that converts a toxic chemical, nitrogen metabolite ammonia, into urea, an organic waste. Ornithine Aminotransferase Deficiency can result in hyperammonemia in the neonatal stages of life, which leads to seizures and mental disorders. On the other hand, in older children, its deficiency causes a rare recessive inherited disease that causes progressive vision loss called Gyrate Atrophy (Sun 2017, Floriani 2026).
 
 Gyrate atrophy of the choroid and retina (GACR) is a rare disease inherited in an autosomal recessive manner. Although the OAT protein functions in mitochondria, the OAT gene is located on an autosome rather than in mitochondrial DNA. Therefore, the disease does not follow maternal mitochondrial inheritance.
 
@@ -23,28 +23,28 @@ According to Palmer et al. (2023), the median age at diagnosis among the 18 pati
 Currently, there is no definitive cure for GACR. However, dietary interventions aimed at reducing plasma ornithine levels may help manage the condition and potentially slow disease progression.
 
 ### _Genomics_
-In order to obtain a wider vision of what the mutation and corresponding disease entail, there has been research throughout the project involving non-human species also affected by said mutation. In this case, the two organisms chosen were Toxoplasma gondii and Rattus norvegicus. The sequence from the two was extracted media Blast in a FASTA file from both their CDS in the form of a nucleotide chain and their protein showcasing amino acids.
+The understanding of genomics is of significant importance in order to study OAT deficiency and fully comprehend it. Humans have 23 pairs of chromosomes, which consist of the individual’s entire genome. Most of the genome can be found in almost every cell. Genes are specific regions of DNA located within the chromosome. The fixed location where it is found is known as the locus. What causes each cell to be different and, therefore, have different functions, is what is called gene expression. This process happens when the DNA transcription turns it into RNA. 
 
-The first species, Toxoplasma gondii, was given by the organisation of the project. The organism is a protozoan parasite responsible for the very famous disease toxoplasmosis which, according to the National Institute of Health, around 35% of the population carries. https://pmc.ncbi.nlm.nih.gov/articles/PMC10242185/ This parasite is only able to carry out sexual reproduction while being inside the intestine of a feline. However, it can still infect all mammals.
+DNA transcription starts with an RNA polymerase that binds onto the protomer of a gene and copies the information onto itself. When the transcription is complete, there will be a chain made up of exons and introns, which are the segments that contain information for the protein coding and the segments that do not, respectively. 
 
-It is quite relevant for it to be studied during this assignment because the organism presents its own Ornithine Aminotransferase enzyme and, moreover, scientists have been able to carry out a significantly extensive research on the parasite due to the fact that it is accessible for them to cultivate it in a petri dish inside a lab.
+However, this RNA will go through a process called splicing, in which the introns are discarded and a chain of mRNA is produced. This mRNA is the sequence that proteins translate from. Nevertheless, there is also the possibility that the RNA goes through a similar process named alternative splicing. This allows humans to create a wide variety of isoforms from the same gene. Moreover, a single gene does not only produce just one mRNA, but many. This is due to the fact that mRNA is very fragile, and its survival rate is low. The ones that do survive get selected by the ribosomes, which get transcribed into proteins. 
 
-The other species, Rattus norvegicus, was chosen because of its affinity with the human OAT sequence, both for the CDS and the protein. Rattus norvegicus, more commonly known as the domestic brown rat, is a small rodent the DNA of which is arranged into 42 chromosomes. https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/ieet_mami_rattus_norvegicus_tcm30-99869.pdf These animals live in urban areas all around the world and reproduce sexually throughout the months between march and october.
+This process is called translation, and happens inside the ribosomes. Codons are what mRNA is composed of, which are sets of three nucleotides. Transfer RNAs are molecules that are bound to a specific amino acid and select the unique codon it codes from. 
 
-Between Arginine and Threonine there are some differing properties that are worth mentioning. Whereas Arginine is a large molecule with a 174.20 g/mol molecular weight, Threonine is considered to be small to medium and its molecular weight is 119.12 g/mol. The reason for this is that the first molecule features a long 3-carbon aliphatic chain ending in a complex guanidino group and the second one only a short hydroxyethyl group.
 
-Also, Arginine is highly polar and amphipathic whereas Threonine is only polar. Arginine’s guanidino group is very hydrophilic but its carbon backbone offers a slight hydrophobic character closer to the main chain. Threonine is polar because its side chain contains a hydrophilic hydroxyl group (-OH) which is capable of forming hydrogen bonds. At a neutral pH, Arginine has a positive charge and side chain, which is very basic, stays protonated under physiological conditions. Threonine, on the other hand, does not have a charge and its side chain is neither acidic nor basic.
 
-Threonine and Arginine have different conformational freedom. Threonine has a very small amount of freedom due to the fact that it has a ramification formed by a hydroxyl group and a methyl group and that causes it to collide with the main structure of the protein when it is trying to rotate. Biologically, that means it is a very rigid molecule and is able to maintain the -OH group facing a specific direction which is great for phosphorylation. Arginine, however, is the opposite. It has a very high conformational freedom because it has a linear chain which means that all four angles of the molecule are free. This allows the molecule to bend and move in order to latch onto other molecules such as DNA. Nonetheless, this also means that the bonds must be really strong (like multiple hydrogen bonds) in order for the molecule to stay still.
+
+
 
 ###  _Homologs_
 In order to obtain a wider vision of what the mutation and corresponding disease entail, there has been research throughout the project involving non-human species also affected by said mutation. In this case, the two organisms chosen were _Toxoplasma gondii_ and _Rattus norvegicus_. The sequence from the two was extracted media Blast in a FASTA file from both their CDS in the form of a nucleotide chain and their protein, which showcasts amino acids. 
 
-The first species, _Toxoplasma gondii_, was given by the organisation of the project. The organism is a protozoan parasite of only 13 chromosomes, responsible for the very famous disease toxoplasmosis, which, according to the National Institute of Health, around 35% of the population carries. This parasite is only able to carry out sexual reproduction while being inside the intestine of a feline. However, it can still infect all mammals. 
+The first species, _Toxoplasma gondii_, was given by the organisation of the project. The organism is a protozoan parasite of only 13 chromosomes, responsible for the very famous disease toxoplasmosis, which, according to the National Institute of Health, around 35% of the population carries. https://pmc.ncbi.nlm.nih.gov/articles/PMC10242185/ This parasite is only able to carry out sexual reproduction while being inside the intestine of a feline. However, it can still infect all mammals. 
 
 It is quite relevant for it to be studied during this assignment because the organism presents its own Ornithine Aminotransferase enzyme and, moreover, scientists have been able to carry out a significantly extenseive research on the parasite due to the fact that it is accessible for them to cultivate it in a petri dish inside a lab. 
 
-The other species, _Rattus norvegicus_, was chosen because of its affinity with the human OAT sequence, both for the CDS and the protein. _Rattus norvegicus_, more commonly known as the domestic brown rat, is a small rodent, the DNA of which is arranged into 42 chromosomes. These animals live in urban areas all around the world and reproduce sexually throughout the months between March and October. 
+The other species, _Rattus norvegicus_, was chosen because of its affinity with the human OAT sequence, both for the CDS and the protein. _Rattus norvegicus_, more commonly known as the domestic brown rat, is a small rodent, the DNA of which is arranged into 42 chromosomes. https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/ieet_mami_rattus_norvegicus_tcm30-99869.pdf
+These animals live in urban areas all around the world and reproduce sexually throughout the months between March and October. 
 
 
 
@@ -140,7 +140,7 @@ Sequence alignments were performed to compare the wild-type and mutant human seq
 
 ## **Abbreviations**
 
-Human Ornithine Aminotransferase (hOAT), Ornithine δ-aminotransferase (δ-OAT), Ornithine Aminotransferase (OAT), Gyrate Atrophy (GACR), Coding DNA Sequence (CDS)
+Human Ornithine Aminotransferase (hOAT), Ornithine δ-aminotransferase (δ-OAT), Ornithine Aminotransferase (OAT), Gyrate Atrophy (GACR), Coding DNA Sequence (CDS), Transfer RNA (tRNA)
 
 ## **Declarations**
 
