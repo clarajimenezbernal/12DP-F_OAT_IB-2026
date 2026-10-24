@@ -25,16 +25,12 @@ Currently, there is no definitive cure for GACR. However, dietary interventions 
 ### _Genomics_
 The understanding of genomics is of significant importance in order to study OAT deficiency and fully comprehend it. Humans have 23 pairs of chromosomes, which consist of the individual’s entire genome. Most of the genome can be found in almost every cell. Genes are specific regions of DNA located within the chromosome. The fixed location where it is found is known as the locus. What causes each cell to be different and, therefore, have different functions, is what is called gene expression. This process happens when the DNA transcription turns it into RNA. 
 
-DNA transcription starts with an RNA polymerase that binds onto the protomer of a gene and copies the information onto itself. When the transcription is complete, there will be a chain made up of exons and introns, which are the segments that contain information for the protein coding and the segments that do not, respectively. 
+DNA transcription starts with an RNA polymerase that binds onto the promoter of a gene and copies the information onto itself. When the transcription is complete, there will be a chain made up of exons and introns, which are the segments that contain information for the protein coding and the segments that do not, respectively. 
 
 However, this RNA will go through a process called splicing, in which the introns are discarded and a chain of mRNA is produced. This mRNA is the sequence that proteins translate from. Nevertheless, there is also the possibility that the RNA goes through a similar process named alternative splicing. This allows humans to create a wide variety of isoforms from the same gene. Moreover, a single gene does not only produce just one mRNA, but many. This is due to the fact that mRNA is very fragile, and its survival rate is low. The ones that do survive get selected by the ribosomes, which get transcribed into proteins. 
-
 This process is called translation, and happens inside the ribosomes. Codons are what mRNA is composed of, which are sets of three nucleotides. Transfer RNAs are molecules that are bound to a specific amino acid and select the unique codon it codes from. 
 
-
-
-
-
+Every gene has a reference sequence that is used to identify and compare variant mutations. Mutations can affect only one nucleotide (point mutations) as well as a large sequence of nucleotides. Point mutations can be silent, missense or nonsense. Silent mutations do not change the amino acid, while the missense mutations do. These mutations can either be similar in terms of characteristics which make them conservative mutations, or be completely different (non-conservative). On the other hand, the nonsense mutations happen when the codon that was going to code into an amino acid becomes a stop codon, which immediately puts a stop to the protein synthesis. 
 
 ###  _Homologs_
 In order to obtain a wider vision of what the mutation and corresponding disease entail, there has been research throughout the project involving non-human species also affected by said mutation. In this case, the two organisms chosen were _Toxoplasma gondii_ and _Rattus norvegicus_. The sequence from the two was extracted media Blast in a FASTA file from both their CDS in the form of a nucleotide chain and their protein, which showcasts amino acids. 
