@@ -39,7 +39,7 @@ The first species, _Toxoplasma gondii_, was given by the organisation of the pro
 
 It is quite relevant for it to be studied during this assignment because the organism presents its own Ornithine Aminotransferase enzyme and, moreover, scientists have been able to carry out a significantly extenseive research on the parasite due to the fact that it is accessible for them to cultivate it in a petri dish inside a lab. 
 
-The other species, _Rattus norvegicus_, was chosen because of its affinity with the human OAT sequence, both for the CDS and the protein. _Rattus norvegicus_, more commonly known as the domestic brown rat, is a small rodent, the DNA of which is arranged into 42 chromosomes. https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/ieet_mami_rattus_norvegicus_tcm30-99869.pdf
+The other species, _Rattus norvegicus_, was chosen because of its affinity with the human OAT sequence, both for the CDS and the protein (Ana Belén Rojas and L. Javier Palomo, 2007)
 These animals live in urban areas all around the world and reproduce sexually throughout the months between March and October. 
 
 
