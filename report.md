@@ -12,6 +12,8 @@
 
 ## **Keywords**
 
+Ornithine aminotransferase(OAT), gyrate atrophy, ornithine aminotransferase deficiency, Arg180Thr variant, molecular basis of disease
+
 ## **Background**
 ### _Protein and disease_
 Human Ornithine Aminotransferase (hOAT), otherwise known as ornithine δ-aminotransferase (δ-OAT), is an enzyme found mostly concentrated in the liver, intestines and kidneys. Its main biological function is to maintain the ornithine level in mitochondria stable. OAT is an amino acid found in the liver that converts a toxic chemical, nitrogen metabolite ammonia, into urea, an organic waste. Ornithine Aminotransferase Deficiency can result in hyperammonemia in the neonatal stages of life, which leads to seizures and mental disorders. On the other hand, in older children, its deficiency causes a rare recessive inherited disease that causes progressive vision loss called Gyrate Atrophy (Sun 2017, Floriani 2026).
@@ -51,6 +53,9 @@ Because _Toxoplasma gondii_ is evolutionarily distant from mammals, its nucleoti
 ### _Structure_
 
 In order to analyse the protein’s structure, the sequence ID was retrieved from the BLAST website and mapped in the PDB. In this manner, it was determined that the experimental data snapshot was obtained through X-Ray Diffraction, exhibiting an image resolution of 1.93Å.
+
+
+This study aims to investigate the molecular basis of gyrate atrophy associated with the OAT gene, focusing on the Arg180Thr variant. Through bioinformatics analyses, the study examines the genetic and protein sequence differences between the reference and disease-associated states, explores the potential structural and functional consequences of the variant, and compares OAT across humans and other selected species to identify conserved features and assess their possible biological significance. Finally, these analyses aim to explain how changes in the OAT gene and its encoded protein may contribute to the development of the disease and affect normal biological function.
 
 
 ## **Results**
