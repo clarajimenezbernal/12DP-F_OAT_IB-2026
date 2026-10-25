@@ -148,6 +148,9 @@ The sequence alignments revealed a higher degree of conservation between human O
 The results suggest that the overall fold of OAT is conserved between humans and T. gondii, despite substantial differences in their amino acid sequences. The higher physicochemical similarity compared with sequence identity suggests that some amino acid substitutions preserve chemical properties that may contribute to structural stability. The low global RMSD further supports the conservation of the overall three-dimensional structure. Nevertheless, local differences in secondary structure and backbone displacement indicate that some regions may have evolved differently. Such differences may reflect variations in local flexibility or molecular interactions, although their functional consequences cannot be established from structural comparison alone.
 Furthermore,the increased backbone displacement observed around positions 384–388 may be explained by the presence of a loop region. Unlike α-helices and β-strands, loops are often more flexible and can adopt different conformations in homologous proteins. Furthermore, amino acid substitutions may alter local interactions and contribute to these structural differences. Therefore, the increased local displacement does not necessarily indicate a disruption of the overall protein fold.
 
+When analyzing the structure of the human protein, there were a few very interesting observations made that are worth discussing. The Wild Type versus mutant comparison showed the superposition of two pathway patterns which had little to no distance between each other, for both the 𝛽-sheets and the 𝛼-helices. This means that the overall backbone formation and the 3D folding underwent no alteration during the mutation. 
+
+
 
 
 ## **Conclusions**
