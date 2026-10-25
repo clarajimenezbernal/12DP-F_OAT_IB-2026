@@ -158,8 +158,11 @@ Furthermore,the increased backbone displacement observed around positions 384–
 ## **Conclusions**
 
 
+*homologs*
 
+The comparison revealed a high degree of sequence conservation between human OAT and Pongo abelii at both nucleotide and protein levels. In several regions, the sequences were identical or showed very few differences, consistent with the close evolutionary relationship between humans and orangutans. These findings suggest that some features of OAT have been conserved throughout evolution.
 
+*structure*
 Overall, the comparison between human OAT and its Toxoplasma gondii ortholog highlights the conservation of protein structure throughout evolution, despite differences in amino acid sequence. The preservation of a similar three-dimensional fold suggests that structural organisation can remain conserved even when many residues have changed, potentially reflecting evolutionary constraints on protein folding. Nevertheless, the local differences observed in certain regions, particularly in flexible loops, illustrate that structural conservation does not imply complete structural identity. Taken together, these findings emphasise the importance of considering both sequence and structural information when comparing homologous proteins.
 
 ## **Methods**
