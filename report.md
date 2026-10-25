@@ -1,7 +1,7 @@
 <div align="center">
 
 # **Disease Project: Ornithine aminotransferase deficency**
-#### Veronica Wangchen, Ana Sánchez, Roger Mena, Clara Jiménez
+#### Clara Jiménez, Roger Mena, Ana Sánchez, Veronica Wangchen
 #### FIB, UPC, Barcelona, Spain
 
 </div>
@@ -12,7 +12,7 @@
 
 ## **Keywords**
 
-Ornithine aminotransferase(OAT), gyrate atrophy, ornithine aminotransferase deficiency, Arg180Thr variant, molecular basis of disease
+OAT, gyrate atrophy, OAT deficiency, _Toxoplasma gondii_, _Rattus norvegicus_, Arg180Thr variant, molecular basis of disease
 
 ## **Background**
 ### _Protein and disease_
@@ -51,9 +51,6 @@ These animals live in urban areas all around the world and reproduce sexually th
 Because _Toxoplasma gondii_ is evolutionarily distant from mammals, its nucleotide and protein sequences showed too many differences, making it difficult to identify regions conserved across species. Therefore, _Pongo abelii_ (the Sumatran orangutan) was included as an additional species because of its closer evolutionary relationship to humans. This comparison allows for a clearer identification of conserved regions in both nucleotide and protein sequences.
 
 ### _Structure_
-
-In order to analyse the protein’s structure, the sequence ID was retrieved from the BLAST website and mapped in the PDB. In this manner, it was determined that the experimental data snapshot was obtained through X-Ray Diffraction, exhibiting an image resolution of 1.93Å.
-
 
 Comparing human OAT with OAT from other organisms can help identify structural features that may be conserved across species. In this study, Toxoplasma gondii was included as a comparative organism to investigate similarities and differences between its OAT structure and human OAT. Such a comparison can provide context for interpreting structural conservation, although differences between the proteins may limit how directly the findings can be applied to human OAT.
 
@@ -111,6 +108,12 @@ Additionally, there were four positions where both species had variants (the las
 
 
 ### _Structure_
+
+It was determined that the experimental data snapshot for the OAT wild type protein was obtained through X-Ray Diffraction, exhibiting an image resolution of 1.93Å. From what was observable, the studied protein is a polypeptide formed by 439 amino-acids. At first glance it is discernible that the protein is mostly composed by ⍺-helices, albeit after further inspection, ꞵ-sheets can be detected in the centre of the chain. 
+
+Ornithine aminotransferase belongs to the a/b structural class, meaning that helices and sheets are alternated throughout the polypeptide chain. It is considered a globular protein, for it is found in compact units that are soluble in aqueous solutions. Furthermore, it has a PLP-dependent transferase like fold which implies that its main domain is formed by three disctinct layers; an outer layer of ⍺-helices, an inner layer of ꞵ-sheets, followed by a final outer layer of ⍺-helices. The central layer of sheets consists in seven mixed strands (one to six run paralel and the seventh runs the opposite direction). 
+
+
 The BLAST results that came from inserting the protein sequences into the website showed a handful of information. First of all, the mutant protein and the wild type amino-acid are not the same type. While the wild type is Arginine, the mutant type is Threonine. Therefore, the mutation is considered to be a substitution because one amino-acid is interchanged by a different due to a variant in the DNA. 
 
 The comparison between human OAT and its Toxoplasma gondii ortholog revealed a sequence identity of 51.2% and a physicochemical similarity of 70.0%. Despite these sequence differences, the superimposed structures showed a global RMSD of 1.33 Å, indicating a high degree of structural similarity. The alignment also revealed regions with conserved secondary structure elements, including α-helices and β-strands, alongside local differences in secondary structure and backbone displacement.
@@ -176,7 +179,7 @@ In order to compare the human sequence with the ones of the other homolog specie
 
 ## **Abbreviations**
 
-Human Ornithine Aminotransferase (hOAT), Ornithine δ-aminotransferase (δ-OAT), Ornithine Aminotransferase (OAT), Gyrate Atrophy (GACR), Coding DNA Sequence (CDS), Transfer RNA (tRNA)
+Human Ornithine Aminotransferase (hOAT), Ornithine δ-aminotransferase (δ-OAT), Ornithine Aminotransferase (OAT), Gyrate Atrophy (GACR), Coding DNA Sequence (CDS), Transfer RNA (tRNA), pyridoxal 5'-phosphate (PLP), pyridoxamine-5’-phosphate (PMP), glutamate-5-semialdehyde or l-glutamate-γ-semialdehyde (GSA)
 
 ## **Declarations**
 
