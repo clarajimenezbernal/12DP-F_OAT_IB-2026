@@ -170,6 +170,9 @@ The wild-type nucleotide and protein sequences were then used to identify homolo
 
 Sequence alignments were performed to compare the wild-type and mutant human sequences and to examine differences associated with the mutation. Multiple sequence alignments were also used to compare the human wild-type sequences with their homologues from the other species, identifying similarities and conserved regions at both the nucleotide and protein levels.
 
+In order to compare the human sequence with the ones of the other homolog species, the option of aligning two or more sequences that the program offers was used. The tool of alignment view was the most useful when wanting to compare the three different species because it showed the sequences query-anchored with dots for identities, which allowed to clearly identify the regions in each sequence that were either conserved or changed.
+
+
 ## **Abbreviations**
 
 Human Ornithine Aminotransferase (hOAT), Ornithine δ-aminotransferase (δ-OAT), Ornithine Aminotransferase (OAT), Gyrate Atrophy (GACR), Coding DNA Sequence (CDS), Transfer RNA (tRNA)
