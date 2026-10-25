@@ -55,6 +55,10 @@ Because _Toxoplasma gondii_ is evolutionarily distant from mammals, its nucleoti
 In order to analyse the protein’s structure, the sequence ID was retrieved from the BLAST website and mapped in the PDB. In this manner, it was determined that the experimental data snapshot was obtained through X-Ray Diffraction, exhibiting an image resolution of 1.93Å.
 
 
+Comparing human OAT with OAT from other organisms can help identify structural features that may be conserved across species. In this study, Toxoplasma gondii was included as a comparative organism to investigate similarities and differences between its OAT structure and human OAT. Such a comparison can provide context for interpreting structural conservation, although differences between the proteins may limit how directly the findings can be applied to human OAT.
+
+
+
 This study aims to investigate the molecular basis of gyrate atrophy associated with the OAT gene, focusing on the Arg180Thr variant. Through bioinformatics analyses, the study examines the genetic and protein sequence differences between the reference and disease-associated states, explores the potential structural and functional consequences of the variant, and compares OAT across humans and other selected species to identify conserved features and assess their possible biological significance. Finally, these analyses aim to explain how changes in the OAT gene and its encoded protein may contribute to the development of the disease and affect normal biological function.
 
 
