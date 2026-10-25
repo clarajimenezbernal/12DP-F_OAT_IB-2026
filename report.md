@@ -150,8 +150,7 @@ Furthermore,the increased backbone displacement observed around positions 384–
 
 When analyzing the structure of the human protein, there were a few very interesting observations made that are worth discussing. The Wild Type versus mutant comparison showed the superposition of two pathway patterns which had little to no distance between each other, for both the 𝛽-sheets and the 𝛼-helices. This means that the overall backbone formation and the 3D folding underwent no alteration during the mutation. 
 
-
-
+However, as shown in the picture, the side chain disposition does present with more alterations. Whereas the Arginine (Wild Type) side chain extends outwards to facilitate interactions with other molecules, the Threonine (mutant) side chain is a lot shorter, which explains the loss of binding abilities.
 
 ## **Conclusions**
 
