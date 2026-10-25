@@ -64,8 +64,6 @@ This study aims to investigate the molecular basis of gyrate atrophy associated 
 
 ## **Results**
   ### _Genomics_
-The BLAST results that came from inserting the protein sequences into said website showed a handful of information. First of all, the mutant protein and the wild type amino-acid are not the same type. While the wild type is Arginine, the mutant type is Threonine. Therefore, the mutation is considered to be a substitution because one nucleotide is interchanged by a different one during transcription. 
-
 Between Arginine and Threonine there are some differing properties that are worth mentioning. Whereas Arginine is a large molecule with a 174.20 g/mol molecular weight, Threonine is considered to be small to medium and its molecular weight is 119.12 g/mol. The reason for this is that the first molecule features a long 3-carbon aliphatic chain ending in a complex guanidino group and the second one only a short hydroxyethyl group.
 
 Also, Arginine is highly polar and amphipathic whereas Threonine is only polar. Arginine’s guanidino group is very hydrophilic but its carbon backbone offers a slight hydrophobic character closer to the main chain. Threonine is polar because its side chain contains a hydrophilic hydroxyl group (-OH) which is capable of forming hydrogen bonds. At a neutral pH, Arginine has a positive charge and side chain, which is very basic, stays protonated under physiological conditions. Threonine, on the other hand, does not have a charge and its side chain is neither acidic nor basic. 
@@ -120,8 +118,7 @@ Additionally, there were four positions where both species had variants (the las
 
 
 ### _Structure_
-
-
+The BLAST results that came from inserting the protein sequences into the website showed a handful of information. First of all, the mutant protein and the wild type amino-acid are not the same type. While the wild type is Arginine, the mutant type is Threonine. Therefore, the mutation is considered to be a substitution because one amino-acid is interchanged by a different due to a variant in the DNA. 
 
 The comparison between human OAT and its Toxoplasma gondii ortholog revealed a sequence identity of 51.2% and a physicochemical similarity of 70.0%. Despite these sequence differences, the superimposed structures showed a global RMSD of 1.33 Å, indicating a high degree of structural similarity. The alignment also revealed regions with conserved secondary structure elements, including α-helices and β-strands, alongside local differences in secondary structure and backbone displacement.
 Although local backbone displacement was generally similar across most of the aligned regions there were two notable exceptions. Around positions 355–361, some residues could not be directly compared because corresponding structural information was unavailable in one of the proteins. A second region of increased displacement was observed around positions 384–388, corresponding to a loop region.
