@@ -123,6 +123,9 @@ Additionally, there were four positions where both species had variants (the las
 
 
 
+The comparison between human OAT and its Toxoplasma gondii ortholog revealed a sequence identity of 51.2% and a physicochemical similarity of 70.0%. Despite these sequence differences, the superimposed structures showed a global RMSD of 1.33 Å, indicating a high degree of structural similarity. The alignment also revealed regions with conserved secondary structure elements, including α-helices and β-strands, alongside local differences in secondary structure and backbone displacement.
+Although local backbone displacement was generally similar across most of the aligned regions there were two notable exceptions. Around positions 355–361, some residues could not be directly compared because corresponding structural information was unavailable in one of the proteins. A second region of increased displacement was observed around positions 384–388, corresponding to a loop region.
+
 
 
 
