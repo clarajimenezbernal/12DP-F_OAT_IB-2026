@@ -148,10 +148,19 @@ One of the proposed mechanisms is that chronically elevated ornithine concentrat
 
 The sequence alignments revealed a higher degree of conservation between human OAT and Pongo abelii than between human OAT and the more distantly related species, Toxoplasma gondii. Several regions of the nucleotide and protein sequences were identical or highly similar between humans and orangutans, whereas greater sequence differences were observed in the comparisons involving the more distantly related species.
 
+*Structure discussion*
+
+The results suggest that the overall fold of OAT is conserved between humans and T. gondii, despite substantial differences in their amino acid sequences. The higher physicochemical similarity compared with sequence identity suggests that some amino acid substitutions preserve chemical properties that may contribute to structural stability. The low global RMSD further supports the conservation of the overall three-dimensional structure. Nevertheless, local differences in secondary structure and backbone displacement indicate that some regions may have evolved differently. Such differences may reflect variations in local flexibility or molecular interactions, although their functional consequences cannot be established from structural comparison alone.
+Furthermore,the increased backbone displacement observed around positions 384–388 may be explained by the presence of a loop region. Unlike α-helices and β-strands, loops are often more flexible and can adopt different conformations in homologous proteins. Furthermore, amino acid substitutions may alter local interactions and contribute to these structural differences. Therefore, the increased local displacement does not necessarily indicate a disruption of the overall protein fold.
+
+
 
 ## **Conclusions**
 
 
+
+
+Overall, the comparison between human OAT and its Toxoplasma gondii ortholog highlights the conservation of protein structure throughout evolution, despite differences in amino acid sequence. The preservation of a similar three-dimensional fold suggests that structural organisation can remain conserved even when many residues have changed, potentially reflecting evolutionary constraints on protein folding. Nevertheless, the local differences observed in certain regions, particularly in flexible loops, illustrate that structural conservation does not imply complete structural identity. Taken together, these findings emphasise the importance of considering both sequence and structural information when comparing homologous proteins.
 
 ## **Methods**
 
