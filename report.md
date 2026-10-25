@@ -45,7 +45,6 @@ Comparing OAT sequences from different species can help identify evolutionarily 
 
 These comparisons provide an evolutionary context for interpreting sequence conservation and assessing whether the residue affected by the Arg180Thr variant is conserved across species. However, sequence conservation alone cannot establish the functional effect of a mutation or demonstrate that the same disease occurs in the other organisms
 
-
 ### _Structure_
 
 The three-dimensional structure of a protein provides information about the spatial arrangement of its amino acid residues and can help explain how sequence changes may affect its stability or function. In OAT, examining the position of a specific amino acid within the protein structure can provide insight into the potential consequences of a mutation. However, structural analysis alone cannot confirm whether a variant alters enzymatic activity; experimental evidence may be required to establish its functional effects.
@@ -54,6 +53,8 @@ Comparing human OAT with OAT from other organisms can help identify structural f
 
 ## **Results**
   ### _Genomics_
+Because the studied sequence exhibits ten different isoforms, a search was conducted so as to determine whether the first isoform had the mutation of interest. This analysis confirmed that the mutation was present in the isoform, and thus, it was selected for the study. The CDS for said isoform has an accession number of NM_000274, with the gene located in the locus 10q26.13, found in the chromosome 10. Additionally, it contains 13 exons, and it is expressed in tissues such as the intestines, although it can also be found in 208 other cell types or tissues throughout adrenal, lung, stomach and even heart tissues.
+
 In the molecule, the overall structure and oligomeric state remain the same, which means that the mutation does not carry extremely significant structural changes. However, the change can cause small rearranges such as Gly320’ shifting towards the active site. This can lead to steric interferences with the carboxyl group and make it difficult for the other substrates to bind onto the molecule
 
 Also, this ⍺-carboxylate ionic interaction anchors the substrate in the one correct orientation. When Arginine is lost in the mutation, the binding affinity of the carboxyl group for ornithine is also lost. A different Arginine from a different position might intervene and take over.
@@ -103,7 +104,6 @@ It was determined that the experimental data snapshot for the OAT wild type (WT)
 
 Ornithine aminotransferase belongs to the a/b structural class, meaning that helices and sheets are alternated throughout the polypeptide chain. It is considered a globular protein, for it is found in compact units that are soluble in aqueous solutions. Furthermore, it has a PLP-dependent transferase like fold which implies that its main domain is formed by three disctinct layers; an outer layer of ⍺-helices, an inner layer of ꞵ-sheets, followed by a final outer layer of ⍺-helices. The central layer of sheets consists of seven mixed strands of order 3245671, with strands from one to six running paralel and the seventh running the opposite direction. 
 
-
 The BLAST results that came from inserting the protein sequences into the website showed a handful of information. First of all, the mutant protein and the WT amino-acid are not the same type. While for the wild type it is Arginine, the mutant type is Threonine. Therefore, the mutation is considered to be a substitution because one amino-acid is interchanged by a different due to a variant in the DNA. 
 
 The comparison between human OAT and its Toxoplasma gondii ortholog revealed a sequence identity of 51.2% and a physicochemical similarity of 70.0%. Despite these sequence differences, the superimposed structures showed a global RMSD of 1.33 Å, indicating a high degree of structural similarity. The alignment also revealed regions with conserved secondary structure elements, including α-helices and β-strands, alongside local differences in secondary structure and backbone displacement.
@@ -131,7 +131,7 @@ Although the relationship between OAT deficiency and elevated ornithine concentr
 One of the proposed mechanisms is that chronically elevated ornithine concentrations contribute to retinal damage, particularly by affecting the retinal pigment epithelium (RPE). The RPE is a specialised cell layer that supports photoreceptor function, maintains the retinal environment and participates in the recycling of visual pigments. Excessive ornithine may disrupt the normal functioning of RPE cells, potentially compromising their ability to support photoreceptor survival. Consequently, RPE dysfunction may contribute to the progressive degeneration of the retina and choroid observed in patients with gyrate atrophy. However, further research is needed to fully understand the mechanisms underlying this process (Buijs et al., 2025).
 
 
-*Homologs discussion*
+### _Homologs_
 
 Not all nucleotide variants correspond to an amino-acid sequence variant because one amino-acid can correspond to more than one codon. Therefore, different combinations of nucleotides can lead to the same amino-acid combinations. For that reason, after doing the sequence alignment between the human, Toxoplasma gondii and Rattus norvegicus, the three species appear more similar at the CDS level. The change in one nucleotide does not necessarily mean the change in the amino-acid. Amino-acids are defined by codons, which are groups of three nucleotides. However, not all combinations of three nucleotides have their own corresponding amino-acid. Each amino-acid is usually paired with between 2 and 4 different codons. 
 
@@ -139,7 +139,7 @@ If compared independently, Rattus norvegicus had a lot more conserved regions wi
 
 The sequence alignments revealed a higher degree of conservation between human OAT and Pongo abelii than between human OAT and the more distantly related species, Toxoplasma gondii. Several regions of the nucleotide and protein sequences were identical or highly similar between humans and orangutans, whereas greater sequence differences were observed in the comparisons involving the more distantly related species.
 
-*Structure discussion*
+### _Structure discussion_
 
 The results suggest that the overall fold of OAT is conserved between humans and T. gondii, despite substantial differences in their amino acid sequences. The higher physicochemical similarity compared with sequence identity suggests that some amino acid substitutions preserve chemical properties that may contribute to structural stability. The low global RMSD further supports the conservation of the overall three-dimensional structure. Nevertheless, local differences in secondary structure and backbone displacement indicate that some regions may have evolved differently. Such differences may reflect variations in local flexibility or molecular interactions, although their functional consequences cannot be established from structural comparison alone.
 Furthermore,the increased backbone displacement observed around positions 384–388 may be explained by the presence of a loop region. Unlike α-helices and β-strands, loops are often more flexible and can adopt different conformations in homologous proteins. Furthermore, amino acid substitutions may alter local interactions and contribute to these structural differences. Therefore, the increased local displacement does not necessarily indicate a disruption of the overall protein fold.
@@ -151,13 +151,11 @@ However, as shown in the picture, the side chain disposition does present with m
 ## **Conclusions**
 *proteomics*
 
-The key takeaway from the sequence alignment of the Wild Type and mutant protein is that the mutation overall does not affect the structure of the protein. If only it makes it more rigid and increases its stability. However, the interchange of amino acids does provoke a loss of salt bridges and steric clashes on the active site of the protein, which lead to problems with binding affinity, catalytic specificity and positioning of substrates.
-
-*homologs*
+### _Homologs_
 
 The comparison revealed a high degree of sequence conservation between human OAT and Pongo abelii at both nucleotide and protein levels. In several regions, the sequences were identical or showed very few differences, consistent with the close evolutionary relationship between humans and orangutans. These findings suggest that some features of OAT have been conserved throughout evolution.
 
-*structure*
+### _Structure_
 Overall, the comparison between human OAT and its Toxoplasma gondii ortholog highlights the conservation of protein structure throughout evolution, despite differences in amino acid sequence. The preservation of a similar three-dimensional fold suggests that structural organisation can remain conserved even when many residues have changed, potentially reflecting evolutionary constraints on protein folding. Nevertheless, the local differences observed in certain regions, particularly in flexible loops, illustrate that structural conservation does not imply complete structural identity. Taken together, these findings emphasise the importance of considering both sequence and structural information when comparing homologous proteins.
 
 ## **Methods**
