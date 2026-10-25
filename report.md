@@ -15,6 +15,8 @@
 OAT, gyrate atrophy, OAT deficiency, _Toxoplasma gondii_, _Rattus norvegicus_, Arg180Thr variant, molecular basis of disease
 
 ## **Background**
+This study aims to investigate the molecular basis of gyrate atrophy associated with the OAT gene, focusing on the Arg180Thr variant. Through bioinformatics analyses, the study examines the genetic and protein sequence differences between the reference and disease-associated states, explores the potential structural and functional consequences of the variant, and compares OAT across humans and other selected species to identify conserved features and assess their possible biological significance. Finally, these analyses aim to explain how changes in the OAT gene and its encoded protein may contribute to the development of the disease and affect normal biological function.
+
 ### _Protein and disease_
 Human Ornithine Aminotransferase (hOAT), otherwise known as ornithine δ-aminotransferase (δ-OAT), is a mitochondrial enzyme involved in amino acid metabolism, found mostly concentrated in the liver, intestines and kidneys. It catalyses the conversion of ornithine and α-ketoglutarate into glutamate-5-semialdehyde (GSA) and glutamate, maintaining the ornithine level in mitochondria stable. OAT deficiency can result in hyperammonemia in the neonatal stages of life, which leads to seizures and mental disorders. On the other hand, in older children, its deficiency causes a rare recessive inherited disease that causes progressive vision loss called Gyrate Atrophy (Sun 2017, Floriani 2026).
 
@@ -29,28 +31,26 @@ Currently, there is no definitive cure for GACR. However, dietary interventions 
 Although gyrate atrophy is associated with OAT deficiency and elevated ornithine levels, the mechanisms through which ornithine accumulation contributes to retinal degeneration are not fully understood. Different hypotheses have been proposed to explain this process, highlighting the complexity of the relationship between altered amino acid metabolism and retinal damage.
 
 ### _Genomics_
-The understanding of genomics is of significant importance in order to study OAT deficiency and fully comprehend it. Humans have 23 pairs of chromosomes, which consist of the individual’s entire genome. Most of the genome can be found in almost every cell. Genes are specific regions of DNA located within the chromosome. The fixed location where it is found is known as the locus. What causes each cell to be different and, therefore, have different functions, is what is called gene expression. This process happens when the DNA transcription turns it into RNA. 
+The OAT gene encodes ornithine aminotransferase, a mitochondrial enzyme involved in amino acid metabolism. Genetic variants in both copies of this gene can impair OAT function and cause gyrate atrophy of the choroid and retina.
 
-DNA transcription starts with an RNA polymerase that binds onto the promoter of a gene and copies the information onto itself. When the transcription is complete, there will be a chain made up of exons and introns, which are the segments that contain information for the protein coding and the segments that do not, respectively. 
+Genes are transcribed into RNA, which is processed to produce messenger RNA (mRNA). During RNA processing, alternative splicing can generate different transcripts from the same gene. These transcripts may encode different protein isoforms, depending on their coding sequences.
 
-However, this RNA will go through a process called splicing, in which the introns are discarded and a chain of mRNA is produced. This mRNA is the sequence that proteins translate from. Nevertheless, there is also the possibility that the RNA goes through a similar process named alternative splicing. This allows humans to create a wide variety of isoforms from the same gene. Moreover, a single gene does not only produce just one mRNA, but many. This is due to the fact that mRNA is very fragile, and its survival rate is low. The ones that do survive get selected by the ribosomes, which get translated into proteins. 
-This process is called translation, and happens inside the ribosomes. Codons are what mRNA is composed of, which are sets of three nucleotides. Transfer RNAs are molecules that are bound to a specific amino acid and select the unique codon it codes from. 
+Genetic variants can affect the resulting protein in different ways. For example, missense variants change a single amino acid, whereas nonsense variants introduce a premature stop codon. The effects of a variant depend on its position and the resulting changes in the protein.
 
-Every gene has a reference sequence that is used to identify and compare variant mutations. Mutations can affect only one nucleotide (point mutations) as well as a large sequence of nucleotides. Point mutations can be silent, missense or nonsense. Silent mutations do not change the amino acid, while the missense mutations do. These mutations can either be similar in terms of characteristics which make them conservative mutations, or be completely different (non-conservative). On the other hand, the nonsense mutations happen when the codon that was going to code into an amino acid becomes a stop codon, which immediately puts a stop to the protein synthesis. 
+In this study, understanding the relationship between the OAT gene, its transcripts and the encoded protein is important for selecting an appropriate reference sequence and investigating the potential structural consequences of the Arg180Thr variant.
 
 ###  _Homologs_
 
 Comparing OAT sequences from different species can help identify evolutionarily conserved regions and amino acid residues that may be important for protein function. In this study, Rattus norvegicus was included as a mammalian homolog, while Toxoplasma gondii was selected as a more evolutionarily distant organism. Because the latter showed substantial sequence differences from human OAT, Pongo abelii was also included due to its closer evolutionary relationship to humans.
+
 These comparisons provide an evolutionary context for interpreting sequence conservation and assessing whether the residue affected by the Arg180Thr variant is conserved across species. However, sequence conservation alone cannot establish the functional effect of a mutation or demonstrate that the same disease occurs in the other organisms
 
 
 ### _Structure_
 
 The three-dimensional structure of a protein provides information about the spatial arrangement of its amino acid residues and can help explain how sequence changes may affect its stability or function. In OAT, examining the position of a specific amino acid within the protein structure can provide insight into the potential consequences of a mutation. However, structural analysis alone cannot confirm whether a variant alters enzymatic activity; experimental evidence may be required to establish its functional effects.
+
 Comparing human OAT with OAT from other organisms can help identify structural features that may be conserved across species. In this study, Toxoplasma gondii was included as a comparative organism to investigate similarities and differences between its OAT structure and human OAT. Such a comparison can provide context for interpreting structural conservation, although differences between the proteins may limit how directly the findings can be applied to human OAT.
-
-This study aims to investigate the molecular basis of gyrate atrophy associated with the OAT gene, focusing on the Arg180Thr variant. Through bioinformatics analyses, the study examines the genetic and protein sequence differences between the reference and disease-associated states, explores the potential structural and functional consequences of the variant, and compares OAT across humans and other selected species to identify conserved features and assess their possible biological significance. Finally, these analyses aim to explain how changes in the OAT gene and its encoded protein may contribute to the development of the disease and affect normal biological function.
-
 
 ## **Results**
   ### _Genomics_
