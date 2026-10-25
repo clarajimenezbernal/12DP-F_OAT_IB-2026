@@ -129,6 +129,14 @@ Also, this ⍺-carboxylate ionic interaction anchors the substrate in the one co
 
 Therefore, this mutation means two very significant things for the protein. The first one is that it increases its structural stability. The second one is that it disrupts what should be the actual positioning of the substrate in order for the molecule to undergo normal catalysis. Thus, the protein’s ability to recognise a substrate and its reaction specificity are more altered than the actual overall structure.
 
+
+
+*Poner debajo de la explicacion donde dice el proceso de consecuencia de la mutacion Arg180Thr*
+
+Although the relationship between OAT deficiency and elevated ornithine concentrations is well established, the precise mechanisms through which hyperornithinaemia leads to progressive retinal degeneration remain incompletely understood (Buijs et al., 2025).
+One of the proposed mechanisms is that chronically elevated ornithine concentrations contribute to retinal damage, particularly by affecting the retinal pigment epithelium (RPE). The RPE is a specialised cell layer that supports photoreceptor function, maintains the retinal environment and participates in the recycling of visual pigments. Excessive ornithine may disrupt the normal functioning of RPE cells, potentially compromising their ability to support photoreceptor survival. Consequently, RPE dysfunction may contribute to the progressive degeneration of the retina and choroid observed in patients with gyrate atrophy. However, further research is needed to fully understand the mechanisms underlying this process (Buijs et al., 2025).
+
+
 ## **Conclusions**
 
 ## **Methods**
@@ -165,6 +173,8 @@ Palmer E, Stepien KM, Campbell C, et al. Clinical, biochemical and molecular ana
 Storici P, Capitani G, Müller R, Schirmer T, Jansonius JN. Crystal structure of human ornithine aminotransferase complexed with the highly specific and potent inhibitor 5-fluoromethylornithine. J Mol Biol. 1999;285(1):297-309. doi:10.1006/jmbi.1998.2289
 
 Online Mendelian Inheritance in Man. Gyrate atrophy of choroid and retina; GACR (MIM #258870). BMC Bioinformatics. 2026;27(1):205.
+
+Buijs MJN, Balfoort BM, Brands MM, et al. Molecular and cellular mechanisms underlying gyrate atrophy: Why is the retina primarily affected?. Acta Ophthalmol. 2025;103(7):e436-e455. doi:10.1111/aos.17498 
 
 Bisetegn H, Debash H, Ebrahim H, et al. Global seroprevalence of Toxoplasma gondii infection among patients with mental and neurological disorders: A systematic review and meta-analysis. Health Sci Rep. 2023;6(6):e1319. Published 2023 Jun 5. doi:10.1002/hsr2.1319
 
