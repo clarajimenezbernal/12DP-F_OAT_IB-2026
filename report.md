@@ -72,8 +72,6 @@ Query range 6: 301 to 360 has conserved amino-acids
 Query range 7: 361 to 420 has conserved amino-acids
 Query range 8: 421 to 439 has conserved amino-acids
 
-Not all nucleotide variants correspond to an amino-acid sequence variant because one amino-acid can correspond to more than one codon. Therefore, different combinations of nucleotides can lead to the same amino-acid combinations. The three species appear more similar at the CDS level because of what has already been explained above. The change in one nucleotide does not necessarily mean the change in the amino-acid. Amino-acids are defined by codons, which are groups of three nucleotides. However, not all combinations of three nucleotides have their own corresponding amino-acid. Each amino-acid is usually paired with between 2 and 4 different codons.
-
 The multiple sequence alignment results showed that the addition of _Pongo abelii_ to the comparison with human OAT and _Rattus norvegicus_ facilitated the identification of highly conserved regions in both nucleotide and protein sequences.
 
 In the nucleotide sequence, there were several instances where the human and _P. abelii_ sequences coincided with over 60 nucleotides (for example, human positions 1281 to 1440), which made the conserved regions easier to distinguish. In total, three highly conserved regions were found between the human nucleotide sequence and those of _P. abelii_ and _Rattus norvegicus_:
@@ -133,6 +131,10 @@ One of the proposed mechanisms is that chronically elevated ornithine concentrat
 
 
 *Homologs discussion*
+
+Not all nucleotide variants correspond to an amino-acid sequence variant because one amino-acid can correspond to more than one codon. Therefore, different combinations of nucleotides can lead to the same amino-acid combinations. For that reason, after doing the sequence alignment between the human, Toxoplasma gondii and Rattus norvegicus, the three species appear more similar at the CDS level. The change in one nucleotide does not necessarily mean the change in the amino-acid. Amino-acids are defined by codons, which are groups of three nucleotides. However, not all combinations of three nucleotides have their own corresponding amino-acid. Each amino-acid is usually paired with between 2 and 4 different codons. 
+
+If compared independently, Rattus norvegicus had a lot more conserved regions with the human compared with Toxoplasma gondii. That is due to evolution and the fact that the common ancestor of the Rat and the human is immensly closer than the one of the protozoon and the human.
 
 The sequence alignments revealed a higher degree of conservation between human OAT and Pongo abelii than between human OAT and the more distantly related species, Toxoplasma gondii. Several regions of the nucleotide and protein sequences were identical or highly similar between humans and orangutans, whereas greater sequence differences were observed in the comparisons involving the more distantly related species.
 
