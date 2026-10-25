@@ -37,24 +37,15 @@ This process is called translation, and happens inside the ribosomes. Codons are
 Every gene has a reference sequence that is used to identify and compare variant mutations. Mutations can affect only one nucleotide (point mutations) as well as a large sequence of nucleotides. Point mutations can be silent, missense or nonsense. Silent mutations do not change the amino acid, while the missense mutations do. These mutations can either be similar in terms of characteristics which make them conservative mutations, or be completely different (non-conservative). On the other hand, the nonsense mutations happen when the codon that was going to code into an amino acid becomes a stop codon, which immediately puts a stop to the protein synthesis. 
 
 ###  _Homologs_
-In order to obtain a wider vision of what the mutation and corresponding disease entail, there has been research throughout the project involving non-human species also affected by said mutation. In this case, the two organisms chosen were _Toxoplasma gondii_ and _Rattus norvegicus_. The sequence from the two was extracted media Blast in a FASTA file from both their CDS in the form of a nucleotide chain and their protein, which showcasts amino acids. 
 
-The first species, _Toxoplasma gondii_, was given by the organisation of the project. The organism is a protozoan parasite of only 13 chromosomes, responsible for the very famous disease toxoplasmosis, which, according to the National Institute of Health, around 35% of the population carries. (Bisetegn H, Debash H, Ebrahim H, 2023) This parasite is only able to carry out sexual reproduction while being inside the intestine of a feline. However, it can still infect all mammals. 
+Comparing OAT sequences from different species can help identify evolutionarily conserved regions and amino acid residues that may be important for protein function. In this study, Rattus norvegicus was included as a mammalian homolog, while Toxoplasma gondii was selected as a more evolutionarily distant organism. Because the latter showed substantial sequence differences from human OAT, Pongo abelii was also included due to its closer evolutionary relationship to humans.
+These comparisons provide an evolutionary context for interpreting sequence conservation and assessing whether the residue affected by the Arg180Thr variant is conserved across species. However, sequence conservation alone cannot establish the functional effect of a mutation or demonstrate that the same disease occurs in the other organisms
 
-It is quite relevant for it to be studied during this assignment because the organism presents its own Ornithine Aminotransferase enzyme and, moreover, scientists have been able to carry out a significantly extenseive research on the parasite due to the fact that it is accessible for them to cultivate it in a petri dish inside a lab. 
-
-The other species, _Rattus norvegicus_, was chosen because of its affinity with the human OAT sequence, both for the CDS and the protein (Ana Belén Rojas and L. Javier Palomo, 2007)
-These animals live in urban areas all around the world and reproduce sexually throughout the months between March and October. 
-
-
-
-Because _Toxoplasma gondii_ is evolutionarily distant from mammals, its nucleotide and protein sequences showed too many differences, making it difficult to identify regions conserved across species. Therefore, _Pongo abelii_ (the Sumatran orangutan) was included as an additional species because of its closer evolutionary relationship to humans. This comparison allows for a clearer identification of conserved regions in both nucleotide and protein sequences.
 
 ### _Structure_
 
+The three-dimensional structure of a protein provides information about the spatial arrangement of its amino acid residues and can help explain how sequence changes may affect its stability or function. In OAT, examining the position of a specific amino acid within the protein structure can provide insight into the potential consequences of a mutation. However, structural analysis alone cannot confirm whether a variant alters enzymatic activity; experimental evidence may be required to establish its functional effects.
 Comparing human OAT with OAT from other organisms can help identify structural features that may be conserved across species. In this study, Toxoplasma gondii was included as a comparative organism to investigate similarities and differences between its OAT structure and human OAT. Such a comparison can provide context for interpreting structural conservation, although differences between the proteins may limit how directly the findings can be applied to human OAT.
-
-
 
 This study aims to investigate the molecular basis of gyrate atrophy associated with the OAT gene, focusing on the Arg180Thr variant. Through bioinformatics analyses, the study examines the genetic and protein sequence differences between the reference and disease-associated states, explores the potential structural and functional consequences of the variant, and compares OAT across humans and other selected species to identify conserved features and assess their possible biological significance. Finally, these analyses aim to explain how changes in the OAT gene and its encoded protein may contribute to the development of the disease and affect normal biological function.
 
