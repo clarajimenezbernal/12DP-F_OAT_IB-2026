@@ -149,6 +149,7 @@ When analyzing the structure of the human protein, there were a few very interes
 However, as shown in the picture, the side chain disposition does present with more alterations. Whereas the Arginine (WT) side chain extends outwards to facilitate interactions with other molecules, the Threonine (mutant) side chain is a lot shorter, which explains the loss of binding abilities.
 
 ## **Conclusions**
+*proteomics*
 
 ### _Homologs_
 
