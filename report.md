@@ -148,6 +148,8 @@ The sequence alignments revealed a higher degree of conservation between human O
 
 ## **Conclusions**
 
+
+
 ## **Methods**
 
 Scientific literature was consulted through databases such as PubMed and MeSH to gather information about OAT, OAT deficiency and its associated disease, as well as the functional roles of specific amino acids, including Arg180.
@@ -164,7 +166,14 @@ Human Ornithine Aminotransferase (hOAT), Ornithine δ-aminotransferase (δ-OAT),
 
 ## **Declarations**
 
-The materials used in this study consisted of FASTA files containing the wild-type and mutant nucleotide and protein sequences of human ornithine aminotransferase (OAT). These sequences were provided as the initial material for the investigation of OAT deficiency.
+The FASTA files used for sequence analysis and the structural comparison materials involving human OAT, Toxoplasma gondii OAT and the Arg180Thr variant were provided by the course instructors. The analyses and results obtained from these materials are presented in this report.
+
+**Ana Sánchez Rebollo — Developer**: Contributed to the development and execution of project tasks, scientific analysis, interpretation of information, and communication of progress and problems.
+
+**Veronica Wangchen — Project Manager**: Coordinated the team's workflow and communication, monitored progress and deadlines, organised meetings when necessary, and reviewed project deliverables.
+
+**Clara Jiménez Bernal — Project Owner**: Defined and prioritised project objectives, communicated the project scope and requirements, and ensured that the work remained aligned with the project's main goal.
+
 
 ## **References**
 
