@@ -16,11 +16,13 @@
 ### _Protein and disease_
 Human Ornithine Aminotransferase (hOAT), otherwise known as ornithine δ-aminotransferase (δ-OAT), is an enzyme found mostly concentrated in the liver, intestines and kidneys. Its main biological function is to maintain the ornithine level in mitochondria stable. OAT is an amino acid found in the liver that converts a toxic chemical, nitrogen metabolite ammonia, into urea, an organic waste. Ornithine Aminotransferase Deficiency can result in hyperammonemia in the neonatal stages of life, which leads to seizures and mental disorders. On the other hand, in older children, its deficiency causes a rare recessive inherited disease that causes progressive vision loss called Gyrate Atrophy (Sun 2017, Floriani 2026).
 
-Gyrate atrophy of the choroid and retina (GACR) is a rare disease inherited in an autosomal recessive manner. Although the OAT protein functions in mitochondria, the OAT gene is located on an autosome rather than in mitochondrial DNA. Therefore, the disease does not follow maternal mitochondrial inheritance.
+Gyrate atrophy of the choroid and retina (GACR) is a rare disease inherited in an autosomal recessive manner. Although the OAT protein functions in mitochondria, the OAT gene is located on an autosome rather than in mitochondrial DNA. Therefore, the disease does not follow maternal mitochondrial inheritance.It can be predominantly found in finland, with a prevalence estimated to be around 1 in 50 000 (Ayman G. Elnahry,2023).
 
 According to Palmer et al. (2023), the median age at diagnosis among the 18 patients included in their study was eight years. Common initial manifestations include myopia and night vision problems. As the disease progresses, patients may develop a gradual loss of peripheral visual field, which can eventually lead to severe visual impairment.
 
 Currently, there is no definitive cure for GACR. However, dietary interventions aimed at reducing plasma ornithine levels may help manage the condition and potentially slow disease progression.
+
+Although gyrate atrophy is associated with OAT deficiency and elevated ornithine levels, the mechanisms through which ornithine accumulation contributes to retinal degeneration are not fully understood. Different hypotheses have been proposed to explain this process, highlighting the complexity of the relationship between altered amino acid metabolism and retinal damage.
 
 ### _Genomics_
 The understanding of genomics is of significant importance in order to study OAT deficiency and fully comprehend it. Humans have 23 pairs of chromosomes, which consist of the individual’s entire genome. Most of the genome can be found in almost every cell. Genes are specific regions of DNA located within the chromosome. The fixed location where it is found is known as the locus. What causes each cell to be different and, therefore, have different functions, is what is called gene expression. This process happens when the DNA transcription turns it into RNA. 
@@ -145,6 +147,8 @@ The materials used in this study consisted of FASTA files containing the wild-ty
 ## **References**
 
 Floriani F, Borri Voltattorni C, Montioli R. Current Insight into Human Ornithine Aminotransferase: A Review. Proteins. 2026;94(8):1431-1441. doi:10.1002/prot.70134
+
+Elnahry AG, Tripathy K. Gyrate Atrophy of the Choroid and Retina. In: StatPearls. Treasure Island (FL): StatPearls Publishing; August 25, 2023. 
 
 Sun Q. Cerebral creatine deficiency syndromes, In Biomarkers in Inborn Errors of Metabolism: Clinical Aspects and Laboratory Determination. Elsevier,
 2017, pages 331-341
