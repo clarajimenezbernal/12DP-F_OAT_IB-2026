@@ -141,6 +141,11 @@ Although the relationship between OAT deficiency and elevated ornithine concentr
 One of the proposed mechanisms is that chronically elevated ornithine concentrations contribute to retinal damage, particularly by affecting the retinal pigment epithelium (RPE). The RPE is a specialised cell layer that supports photoreceptor function, maintains the retinal environment and participates in the recycling of visual pigments. Excessive ornithine may disrupt the normal functioning of RPE cells, potentially compromising their ability to support photoreceptor survival. Consequently, RPE dysfunction may contribute to the progressive degeneration of the retina and choroid observed in patients with gyrate atrophy. However, further research is needed to fully understand the mechanisms underlying this process (Buijs et al., 2025).
 
 
+*Homologs discussion*
+
+The sequence alignments revealed a higher degree of conservation between human OAT and Pongo abelii than between human OAT and the more distantly related species, Toxoplasma gondii. Several regions of the nucleotide and protein sequences were identical or highly similar between humans and orangutans, whereas greater sequence differences were observed in the comparisons involving the more distantly related species.
+
+
 ## **Conclusions**
 
 ## **Methods**
