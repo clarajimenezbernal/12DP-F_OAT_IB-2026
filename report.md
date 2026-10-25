@@ -121,6 +121,9 @@ This substitution can also change the interactions that happen between these mol
 Also, this ⍺-carboxylate ionic interaction anchors the substrate in the one correct orientation. When Arginine is lost in the mutation, the binding affinity of the carboxyl group for ornithine is also lost. A different Arginine from a different position might intervene and take over.
 
 Therefore, this mutation means two very significant things for the protein. The first one is that it increases its structural stability. The second one is that it disrupts what should be the actual positioning of the substrate in order for the molecule to undergo normal catalysis. Thus, the protein’s ability to recognise a substrate and its reaction specificity are more altered than the actual overall structure.
+
+## **Conclusions**
+
 ## **Methods**
 
 Scientific literature was consulted through databases such as PubMed and MeSH to gather information about OAT, OAT deficiency and its associated disease, as well as the functional roles of specific amino acids, including Arg180.
