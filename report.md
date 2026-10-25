@@ -16,9 +16,11 @@ OAT, gyrate atrophy, OAT deficiency, _Toxoplasma gondii_, _Rattus norvegicus_, A
 
 ## **Background**
 ### _Protein and disease_
-Human Ornithine Aminotransferase (hOAT), otherwise known as ornithine δ-aminotransferase (δ-OAT), is an enzyme found mostly concentrated in the liver, intestines and kidneys. Its main biological function is to maintain the ornithine level in mitochondria stable. OAT is an amino acid found in the liver that converts a toxic chemical, nitrogen metabolite ammonia, into urea, an organic waste. Ornithine Aminotransferase Deficiency can result in hyperammonemia in the neonatal stages of life, which leads to seizures and mental disorders. On the other hand, in older children, its deficiency causes a rare recessive inherited disease that causes progressive vision loss called Gyrate Atrophy (Sun 2017, Floriani 2026).
+Human Ornithine Aminotransferase (hOAT), otherwise known as ornithine δ-aminotransferase (δ-OAT), is a mitochondrial enzyme involved in amino acid metabolism, found mostly concentrated in the liver, intestines and kidneys. It catalyses the conversion of ornithine and α-ketoglutarate into glutamate-5-semialdehyde (GSA) and glutamate, maintaining the ornithine level in mitochondria stable. OAT deficiency can result in hyperammonemia in the neonatal stages of life, which leads to seizures and mental disorders. On the other hand, in older children, its deficiency causes a rare recessive inherited disease that causes progressive vision loss called Gyrate Atrophy (Sun 2017, Floriani 2026).
 
-Gyrate atrophy of the choroid and retina (GACR) is a rare disease inherited in an autosomal recessive manner. Although the OAT protein functions in mitochondria, the OAT gene is located on an autosome rather than in mitochondrial DNA. Therefore, the disease does not follow maternal mitochondrial inheritance.It can be predominantly found in finland, with a prevalence estimated to be around 1 in 50 000 (Ayman G. Elnahry,2023).
+The reaction itself depends on pyridoxal 5'-phosphate (PLP) to act as its cofactor. Just like any other PLP dependent molecule, δ-OAT undergoes two half-reactions. For the first half, a PLP binds to each of the three monomers from OAT, forming an aldimine bridge, and when the reaction goes through the catalysis, a proton from the δ-carbon from ornithine transfers to the C4’ carbon of PLP, which modifies the aldimine between PLP and L-ornithine into an aldimine between pyridoxamine-5’-phosphate (PMP) and l-glutamate-γ-semialdehyde. Consequently, a water molecule breaks the bridge, and since PMP and GSA are unstable on their own, they fuse together and form a ring. Finally, 2-oxoglutarate enters the reaction, beginning the second half-reaction. This leads to PMP giving up an amino acid and giving it to this last molecule, turning it into L-glutamate. This allows PMP to return to its previous PLP state and restart the catalytic activity for ornithine. (Shen 1998)
+
+Gyrate atrophy of the choroid and retina (GACR) is a rare disease inherited in an autosomal recessive manner. Although the OAT protein functions in mitochondria, the OAT gene is located on an autosome rather than in mitochondrial DNA. Therefore, the disease does not follow maternal mitochondrial inheritance.It can be predominantly found in Finland, with a prevalence estimated to be around 1 in 50 000 (Ayman G. Elnahry,2023).
 
 According to Palmer et al. (2023), the median age at diagnosis among the 18 patients included in their study was eight years. Common initial manifestations include myopia and night vision problems. As the disease progresses, patients may develop a gradual loss of peripheral visual field, which can eventually lead to severe visual impairment.
 
@@ -106,20 +108,19 @@ The analysis of the protein sequences also revealed similarities between the hum
 Additionally, there were four positions where both species had variants (the last three also shared with _T. gondii_): 2, 180, 353 and 389.
 
 
-
 ### _Structure_
 
-It was determined that the experimental data snapshot for the OAT wild type protein was obtained through X-Ray Diffraction, exhibiting an image resolution of 1.93Å. From what was observable, the studied protein is a polypeptide formed by 439 amino-acids. At first glance it is discernible that the protein is mostly composed by ⍺-helices, albeit after further inspection, ꞵ-sheets can be detected in the centre of the chain. 
+It was determined that the experimental data snapshot for the OAT wild type (WT) protein was obtained through X-Ray Diffraction, exhibiting an image resolution of 1.93Å. From what was observable, the studied protein is a polypeptide formed by 439 amino-acids. At first glance it is discernible that the protein is mostly composed by ⍺-helices, albeit after further inspection, ꞵ-sheets can be detected in the centre of the chain. 
 
-Ornithine aminotransferase belongs to the a/b structural class, meaning that helices and sheets are alternated throughout the polypeptide chain. It is considered a globular protein, for it is found in compact units that are soluble in aqueous solutions. Furthermore, it has a PLP-dependent transferase like fold which implies that its main domain is formed by three disctinct layers; an outer layer of ⍺-helices, an inner layer of ꞵ-sheets, followed by a final outer layer of ⍺-helices. The central layer of sheets consists in seven mixed strands (one to six run paralel and the seventh runs the opposite direction). 
+Ornithine aminotransferase belongs to the a/b structural class, meaning that helices and sheets are alternated throughout the polypeptide chain. It is considered a globular protein, for it is found in compact units that are soluble in aqueous solutions. Furthermore, it has a PLP-dependent transferase like fold which implies that its main domain is formed by three disctinct layers; an outer layer of ⍺-helices, an inner layer of ꞵ-sheets, followed by a final outer layer of ⍺-helices. The central layer of sheets consists of seven mixed strands of order 3245671, with strands from one to six running paralel and the seventh running the opposite direction. 
 
 
-The BLAST results that came from inserting the protein sequences into the website showed a handful of information. First of all, the mutant protein and the wild type amino-acid are not the same type. While the wild type is Arginine, the mutant type is Threonine. Therefore, the mutation is considered to be a substitution because one amino-acid is interchanged by a different due to a variant in the DNA. 
+The BLAST results that came from inserting the protein sequences into the website showed a handful of information. First of all, the mutant protein and the WT amino-acid are not the same type. While for the wild type it is Arginine, the mutant type is Threonine. Therefore, the mutation is considered to be a substitution because one amino-acid is interchanged by a different due to a variant in the DNA. 
 
 The comparison between human OAT and its Toxoplasma gondii ortholog revealed a sequence identity of 51.2% and a physicochemical similarity of 70.0%. Despite these sequence differences, the superimposed structures showed a global RMSD of 1.33 Å, indicating a high degree of structural similarity. The alignment also revealed regions with conserved secondary structure elements, including α-helices and β-strands, alongside local differences in secondary structure and backbone displacement.
 Although local backbone displacement was generally similar across most of the aligned regions there were two notable exceptions. Around positions 355–361, some residues could not be directly compared because corresponding structural information was unavailable in one of the proteins. A second region of increased displacement was observed around positions 384–388, corresponding to a loop region.
 
-From the structure superposition of human Wild Type and human mutant proteins it was obtained that its local backbone displacement in position 180 measures at 0.049 Å, making it practically negligible. Even though the average deviation of the entire protein structure is 0.394 Å , this is still a very minimal change (under 1 Å) and it proves that the interchanging of one single amino-acid does not cause any big structural damages. Therefore, the disease caused by the mutation must be due to chemical disadjustments.
+From the structure superposition of human WT and human mutant proteins it was obtained that its local backbone displacement in position 180 measures at 0.049 Å, making it practically negligible. Even though the average deviation of the entire protein structure is 0.394 Å , this is still a very minimal change (under 1 Å) and it proves that the interchanging of one single amino-acid does not cause any big structural damages. Therefore, the disease caused by the mutation must be due to chemical disadjustments.
 
 ## **Discussion**
 Between Arginine and Threonine there are some differing properties that are worth mentioning. Whereas Arginine is a large molecule with a 174.20 g/mol molecular weight, Threonine is considered to be small to medium and its molecular weight is 119.12 g/mol. The reason for this is that the first molecule features a long 3-carbon aliphatic chain ending in a complex guanidino group and the second one only a short hydroxyethyl group.
@@ -150,9 +151,9 @@ The sequence alignments revealed a higher degree of conservation between human O
 The results suggest that the overall fold of OAT is conserved between humans and T. gondii, despite substantial differences in their amino acid sequences. The higher physicochemical similarity compared with sequence identity suggests that some amino acid substitutions preserve chemical properties that may contribute to structural stability. The low global RMSD further supports the conservation of the overall three-dimensional structure. Nevertheless, local differences in secondary structure and backbone displacement indicate that some regions may have evolved differently. Such differences may reflect variations in local flexibility or molecular interactions, although their functional consequences cannot be established from structural comparison alone.
 Furthermore,the increased backbone displacement observed around positions 384–388 may be explained by the presence of a loop region. Unlike α-helices and β-strands, loops are often more flexible and can adopt different conformations in homologous proteins. Furthermore, amino acid substitutions may alter local interactions and contribute to these structural differences. Therefore, the increased local displacement does not necessarily indicate a disruption of the overall protein fold.
 
-When analyzing the structure of the human protein, there were a few very interesting observations made that are worth discussing. The Wild Type versus mutant comparison showed the superposition of two pathway patterns which had little to no distance between each other, for both the 𝛽-sheets and the 𝛼-helices. This means that the overall backbone formation and the 3D folding underwent no alteration during the mutation. 
+When analyzing the structure of the human protein, there were a few very interesting observations made that are worth discussing. The WT versus mutant comparison showed the superposition of two pathway patterns which had little to no distance between each other, for both the 𝛽-sheets and the 𝛼-helices. This means that the overall backbone formation and the 3D folding underwent no alteration during the mutation. 
 
-However, as shown in the picture, the side chain disposition does present with more alterations. Whereas the Arginine (Wild Type) side chain extends outwards to facilitate interactions with other molecules, the Threonine (mutant) side chain is a lot shorter, which explains the loss of binding abilities.
+However, as shown in the picture, the side chain disposition does present with more alterations. Whereas the Arginine (WT) side chain extends outwards to facilitate interactions with other molecules, the Threonine (mutant) side chain is a lot shorter, which explains the loss of binding abilities.
 
 ## **Conclusions**
 
@@ -179,7 +180,7 @@ In order to compare the human sequence with the ones of the other homolog specie
 
 ## **Abbreviations**
 
-Human Ornithine Aminotransferase (hOAT), Ornithine δ-aminotransferase (δ-OAT), Ornithine Aminotransferase (OAT), Gyrate Atrophy (GACR), Coding DNA Sequence (CDS), Transfer RNA (tRNA), pyridoxal 5'-phosphate (PLP), pyridoxamine-5’-phosphate (PMP), glutamate-5-semialdehyde or l-glutamate-γ-semialdehyde (GSA)
+Human Ornithine Aminotransferase (hOAT), Ornithine δ-aminotransferase (δ-OAT), Ornithine Aminotransferase (OAT), Gyrate Atrophy (GACR), Coding DNA Sequence (CDS), Transfer RNA (tRNA), pyridoxal 5'-phosphate (PLP), pyridoxamine-5’-phosphate (PMP), glutamate-5-semialdehyde or l-glutamate-γ-semialdehyde (GSA), wild type (WT)
 
 ## **Declarations**
 
@@ -195,6 +196,8 @@ The FASTA files used for sequence analysis and the structural comparison materia
 ## **References**
 
 Floriani F, Borri Voltattorni C, Montioli R. Current Insight into Human Ornithine Aminotransferase: A Review. Proteins. 2026;94(8):1431-1441. doi:10.1002/prot.70134
+
+Shen BW, Hennig M, Hohenester E, Jansonius JN, Schirmer T. Crystal structure of human recombinant ornithine aminotransferase. J Mol Biol. 1998;277(1):81-102. doi:10.1006/jmbi.1997.1583
 
 Elnahry AG, Tripathy K. Gyrate Atrophy of the Choroid and Retina. In: StatPearls. Treasure Island (FL): StatPearls Publishing; August 25, 2023. 
 
