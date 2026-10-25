@@ -149,7 +149,9 @@ When analyzing the structure of the human protein, there were a few very interes
 However, as shown in the picture, the side chain disposition does present with more alterations. Whereas the Arginine (WT) side chain extends outwards to facilitate interactions with other molecules, the Threonine (mutant) side chain is a lot shorter, which explains the loss of binding abilities.
 
 ## **Conclusions**
+*proteomics*
 
+The key takeaway from the sequence alignment of the Wild Type and mutant protein is that the mutation overall does not affect the structure of the protein. If only it makes it more rigid and increases its stability. However, the interchange of amino acids does provoke a loss of salt bridges and steric clashes on the active site of the protein, which lead to problems with binding affinity, catalytic specificity and positioning of substrates.
 
 *homologs*
 
