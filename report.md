@@ -10,6 +10,12 @@
 
 ## **Abstract**
 
+Ornithine aminotransferase (OAT) is a mitochondrial enzyme involved in amino acid metabolism. Deficiency of this enzyme, caused by pathogenic variants in both copies of the OAT gene, leads to gyrate atrophy of the choroid and retina (GACR), a rare inherited disease characterised by progressive vision loss. This study investigated the molecular consequences of the Arg180Thr variant and explored the evolutionary conservation of OAT through bioinformatics analyses of nucleotide sequences, protein sequences and three-dimensional structures.
+
+BLAST searches and sequence alignments were used to examine the human wild-type and mutant sequences and compare OAT homologues from Rattus norvegicus, Pongo abelii and Toxoplasma gondii. The Arg180Thr variant was identified as a missense substitution affecting amino acid 180. Structural comparison between the human wild-type and mutant proteins revealed minimal backbone displacement, indicating that the mutation does not substantially alter the overall protein fold. However, the substitution of arginine with threonine changes the chemical properties and size of the side chain, potentially disrupting interactions involved in substrate binding and catalytic specificity. Comparisons across species revealed greater sequence conservation between human OAT and Pongo abelii, whereas the comparison with T. gondii showed 51.2% sequence identity and 70.0% physicochemical similarity. Despite these sequence differences, their superimposed structures presented a global RMSD of 1.33 Å, indicating considerable structural similarity.
+
+Overall, the findings suggest that the Arg180Thr variant may impair OAT function primarily through local chemical and interaction changes rather than major alterations to its three-dimensional structure. The comparative analyses also highlight the evolutionary conservation of OAT structure despite differences in amino acid sequences.
+
 ## **Keywords**
 
 OAT, gyrate atrophy, OAT deficiency, _Toxoplasma gondii_, _Rattus norvegicus_, Arg180Thr variant, molecular basis of disease
