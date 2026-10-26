@@ -1,7 +1,7 @@
 <div align="center">
 
 # **Disease Project: Ornithine aminotransferase deficency**
-#### Clara Jiménez, Roger Mena, Ana Sánchez, Veronica Wangchen
+#### Clara Jiménez, Ana Sánchez, Veronica Wangchen
 #### FIB, UPC, Barcelona, Spain
 
 </div>
@@ -165,6 +165,8 @@ The key takeaway from the sequence alignment of the Wild Type and mutant protein
 The comparison revealed a high degree of sequence conservation between human OAT and Pongo abelii at both nucleotide and protein levels. In several regions, the sequences were identical or showed very few differences, consistent with the close evolutionary relationship between humans and orangutans. These findings suggest that some features of OAT have been conserved throughout evolution.
 
 ### _Structure_
+In conclusion, about the structure of the mutation it can be said that the mutation that takes place at position 180 does not cause a significant effect on the overall three dimensional folding or secondary structure characteristics. This is demonstrated by the backbone displacement, which measures less than 1 Å, making it practically negligible. Instead, the differing characteristics between Arginine and Threonine prove that the mechanisms of the disease are caused rather by chemical and spatial disarrangements. The Threonine protein is significantly shorter and loses the ability to form salt bridges. 
+
 Overall, the comparison between human OAT and its Toxoplasma gondii ortholog highlights the conservation of protein structure throughout evolution, despite differences in amino acid sequence. The preservation of a similar three-dimensional fold suggests that structural organisation can remain conserved even when many residues have changed, potentially reflecting evolutionary constraints on protein folding. Nevertheless, the local differences observed in certain regions, particularly in flexible loops, illustrate that structural conservation does not imply complete structural identity. Taken together, these findings emphasise the importance of considering both sequence and structural information when comparing homologous proteins.
 
 ## **Methods**
