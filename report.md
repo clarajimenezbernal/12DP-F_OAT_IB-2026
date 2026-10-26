@@ -144,9 +144,7 @@ One of the proposed mechanisms is that chronically elevated ornithine concentrat
 
 Not all nucleotide variants correspond to an amino-acid sequence variant because one amino-acid can correspond to more than one codon. Therefore, different combinations of nucleotides can lead to the same amino-acid combinations. For that reason, after doing the sequence alignment between the human, Toxoplasma gondii and Rattus norvegicus, the three species appear more similar at the protein level. The change in one nucleotide does not necessarily mean the change in the amino-acid. Amino-acids are defined by codons, which are groups of three nucleotides. However, not all combinations of three nucleotides have their own corresponding amino-acid. Each amino-acid is usually paired with between 2 and 4 different codons. 
 
-If compared independently, Rattus norvegicus had a lot more conserved regions with the human compared with Toxoplasma gondii. That is due to evolution and the fact that the common ancestor of the Rat and the human is immensly closer than the one of the protozoon and the human.
-
-The sequence alignments revealed a higher degree of conservation between human OAT and Pongo abelii than between human OAT and the more distantly related species, Toxoplasma gondii. Several regions of the nucleotide and protein sequences were identical or highly similar between humans and orangutans, whereas greater sequence differences were observed in the comparisons involving the more distantly related species.
+If compared independently, Rattus norvegicus and Pongo abelii revealed a higher degree of conservation with the human than that of Toxoplasma gondii. Several regions of the nucleotide and protein sequences were identical or highly similar between humans and orangutans and rats, whereas greater sequence differences were observed in the comparisons involving the more distantly related species. That is due to evolution and the fact that the common ancestor of the three mammals is much closer than that of the protozoon and the human.
 
 ### _Structure_
 
