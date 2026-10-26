@@ -53,28 +53,16 @@ Also, there are very few sequence positions with variants across the three speci
 
 The multiple sequence alignment results showed that the addition of _Pongo abelii_ to the comparison with human OAT and _Rattus norvegicus_ facilitated the identification of highly conserved regions in both nucleotide and protein sequences.
 
-In the nucleotide sequence, there were several instances where the human and _P. abelii_ sequences coincided with over 60 nucleotides (for example, human positions 1281 to 1440), which made the conserved regions easier to distinguish. In total, three highly conserved regions were found between the human nucleotide sequence and those of _P. abelii_ and _Rattus norvegicus_:
-
-- Human positions 901 to 960 (query 16), with only one difference in _P. abelii_ and four in _R. norvegicus_.
-  
-- Positions 361 to 420 (query 7), completely identical to _P. abelii_ and with only five differences from _R. norvegicus_.
-  
-- Positions 121 to 180 (query 3), with one difference from the Sumatran orangutan and six from the rat.
+The nucleotide alignment revealed three highly conserved regions between human OAT and P. abelii and R. norvegicus: positions 901–960 (query 16), with one and four differences, respectively; positions 361–420 (query 7), identical to P. abelii and with five differences in R. norvegicus; and positions 121–180 (query 3), with one and six differences, respectively.
 
 Furthermore, in several positions, a substitution occurred in both species at the same time, and in most of these cases the substitution was in the same nucleotide (for instance, at position 606, where a guanine is changed to an adenine in both the orangutan and the rat).
 
-The analysis of the protein sequences also revealed similarities between the human and orangutan sequences, and again three highly conserved regions were identified:
-
-- Aminoacids positions 102 to 166 (queries 2 and 3), where the orangutan is identical and the rat has only two variants.
-  
-- Positions 241 to 300 (query 5), with one difference in _P. abelii_ and two in _R. norvegicus_.
-  
-- Positions 181 to 240 (query 4), where only the rat shows four differences.
+The protein alignment identified three highly conserved regions: positions 102–166 (queries 2 and 3), identical in P. abelii and with only two differences in R. norvegicus; positions 241–300 (query 5), with one and two differences, respectively; and positions 181–240 (query 4), identical in P. abelii and with four differences in R. norvegicus.
   
 Additionally, there were four positions where both species had variants (the last three also shared with _T. gondii_): 2, 180, 353 and 389.
 
-
 ### _Structure_
+
 It was determined that the experimental data snapshot for the OAT wild type (WT) protein was obtained through X-Ray Diffraction, exhibiting an image resolution of 1.93Å. From what was observable, the studied protein is a polypeptide formed by 439 amino-acids. At first glance it is discernible that the protein is mostly composed by ⍺-helices, albeit after further inspection, ꞵ-sheets can be detected in the centre of the chain. 
 
 Ornithine aminotransferase belongs to the a/b structural class, meaning that helices and sheets are alternated throughout the polypeptide chain. It is considered a globular protein, for it is found in compact units that are soluble in aqueous solutions. Furthermore, it has a PLP-dependent transferase like fold which implies that its main domain is formed by three disctinct layers; an outer layer of ⍺-helices, an inner layer of ꞵ-sheets, followed by a final outer layer of ⍺-helices. The central layer of sheets consists of seven mixed strands of order 3245671, with strands from one to six running paralel and the seventh running the opposite direction. Finally, OAT belongs to the PLP-dependent transferases superfamily.
