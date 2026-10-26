@@ -169,7 +169,7 @@ The FASTA files used for sequence analysis and the structural comparison materia
 
 The BLAST accession number for the CDS is NM_000274, whilst the one used for the protein sequence is NP_000265.
 The UniProt ID for the protein is P04181.
-As for the PDB IDs, 6XH7 is the protein for the mutant hOAT and 10LW is the WT hOAT. For _Toxoplasma gondii_, it is 5EAV.
+As for the PDB IDs, 6XH7 is the protein for the mutant hOAT and 10LW is the WT hOAT. For _Toxoplasma gondii_, it is 5EAV. For the Gyrate Atrophy in OMIM, it is #258870.
 
 
 **Ana Sánchez Rebollo — Developer**: Contributed to the development and execution of project tasks, scientific analysis, interpretation of information, and communication of progress and problems.
@@ -197,8 +197,6 @@ Kaczmarczyk A, Baker M, Diddle J, Yuzyuk T, Valle D, Lindstrom K. A neonate with
 Palmer E, Stepien KM, Campbell C, et al. Clinical, biochemical and molecular analysis in a cohort of individuals with gyrate atrophy. Orphanet J Rare Dis. 2023;18(1):265. Published 2023 Sep 4. doi:10.1186/s13023-023-02840-0
 
 Storici P, Capitani G, Müller R, Schirmer T, Jansonius JN. Crystal structure of human ornithine aminotransferase complexed with the highly specific and potent inhibitor 5-fluoromethylornithine. J Mol Biol. 1999;285(1):297-309. doi:10.1006/jmbi.1998.2289
-
-Online Mendelian Inheritance in Man. Gyrate atrophy of choroid and retina; GACR (MIM #258870). BMC Bioinformatics. 2026;27(1):205.
 
 Buijs MJN, Balfoort BM, Brands MM, et al. Molecular and cellular mechanisms underlying gyrate atrophy: Why is the retina primarily affected?. Acta Ophthalmol. 2025;103(7):e436-e455. doi:10.1111/aos.17498 
 
