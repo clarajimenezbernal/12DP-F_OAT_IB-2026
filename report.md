@@ -55,7 +55,7 @@ Because the studied wild type sequence exhibits ten different isoforms, a search
 
 Regarding the protein’s wild type, there was only one difference; only one isoform matched the given FASTA file at 100%, which was the variant 1. The search for the mutant protein sequence resulted in the same WT protein sequence, at a query coverage, E value and identity percentage of 100%, 0.0, and 99.77% respectively.
 
-Lastly, each WT sequence was aligned to its corresponding mutation. For the nucleotide sequence mutated variant, it was revealed that there is a missense mutation in locus 539 (C>G). Concerning the comparison between the WT protein sequence and the mutated variant, there was a mutation in the amino-acid found in position 180, which is an threonin (T) instead of an arginine (R).
+Lastly, each WT sequence was aligned to its corresponding mutation. For the nucleotide sequence mutated variant, it was revealed that there is a missense mutation in locus 539 (C>G). Concerning the comparison between the WT protein sequence and the mutated variant, there was a mutation in the amino-acid found in position 180, which is an threonine (T) instead of an arginine (R).
 
 ###  _Homologs_
 When working with the sequence alignments of the three original species, which were Homo sapiens, Toxoplasma gondii and Rattus norvegicus, the last two being the homologs, it became obvious that the differences among their protein sequences were abysmal, with the exception of Arg180, which is conserved across H. sapiens and T.gondii. The longest conserved regions across the three protein sequences are formed by 7 amino-acids. This might not be considered a high conservation but, the three species are too different among them to have any longer coincidental regions. There are only four amino-acids the mutation of which is the same in both Toxoplasma gondii and Rattus norvegicus. 
@@ -80,6 +80,10 @@ Ornithine aminotransferase belongs to the a/b structural class, meaning that hel
 
 The comparison between human OAT and its Toxoplasma gondii ortholog revealed a sequence identity of 51.2% and a physicochemical similarity of 70.0%. Despite these sequence differences, the superimposed structures showed a global RMSD of 1.33 Å, indicating a high degree of structural similarity. The alignment also revealed regions with conserved secondary structure elements, including α-helices and β-strands, alongside local differences in secondary structure and backbone displacement.
 Although local backbone displacement was generally similar across most of the aligned regions there were two notable exceptions. Around positions 355–361, some residues could not be directly compared because corresponding structural information was unavailable in one of the proteins. A second region of increased displacement was observed around positions 384–388, corresponding to a loop region.
+<img width="617" height="346" alt="image" src="https://github.com/user-attachments/assets/3cc1603b-a5e0-4d3d-a7fd-ea5790ac60a8" />
+
+figure 3. Structure comparison between _T.gondii_ and _H.sapiens_ (given by teachers)
+
 
 From the structure superposition of human WT and human mutant proteins it was obtained that its local backbone displacement in position 180 measures at 0.049 Å, making it practically negligible. Even though the average deviation of the entire protein structure is 0.394 Å , this is still a very minimal change (under 1 Å) and it proves that the interchanging of one single amino-acid does not cause any big structural damages. Therefore, the disease caused by the mutation must be due to chemical disadjustments.
 
@@ -116,7 +120,7 @@ Furthermore,the increased backbone displacement observed around positions 384–
 
 When analyzing the structure of the human protein, there were a few very interesting observations made that are worth discussing. The WT versus mutant comparison showed the superposition of two pathway patterns which had little to no distance between each other, for both the 𝛽-sheets and the 𝛼-helices. This means that the overall backbone formation and the 3D folding underwent no alteration during the mutation. 
 
-However, as shown in figure 3, the side chain disposition does present with more alterations. Whereas the arginine (WT) side chain extends outwards to facilitate interactions with other molecules, the threonine (mutant) side chain is a lot shorter, which explains the loss of binding abilities.
+However, as shown in figure 4, the side chain disposition does present with more alterations. Whereas the arginine (WT) side chain extends outwards to facilitate interactions with other molecules, the threonine (mutant) side chain is a lot shorter, which explains the loss of binding abilities.
 
 Throughout this project, there have been some limitations related to the investigation of the protein. First of all, there were no actual lab experiments done, so some of the conclusions related to the mechanism of the disease ended up somewhat vague. This is due to the fact that the reason as to why the excess of concentration of L-ornithine causes the degradation of the retinal epithelium is not entirely clear (Montioli et al. , 2019) Moreover, when analyzing the structure superposition of the homolog proteins, the video inside the program itself would not show the entire 360º rotation of said, which made it harder to identify the different lengths of the sequence structure. 
 
