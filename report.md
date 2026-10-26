@@ -64,11 +64,11 @@ Also, there are very few sequence positions with variants across the three speci
 
 The multiple sequence alignment results showed that the addition of _Pongo abelii_ to the comparison with human OAT and _Rattus norvegicus_ facilitated the identification of highly conserved regions in both nucleotide and protein sequences.
 
-The nucleotide alignment revealed three highly conserved regions between human OAT and _P. abelii_ and R. norvegicus: positions 901–960 (query 16), with one and four differences, respectively; positions 361–420 (query 7), identical to _P. abelii_ and with five differences in _R. norvegicus_; and positions 121–180 (query 3), with one and six differences, respectively.
+The nucleotide alignment revealed three highly conserved regions between human OAT and _P. abelii_ and _R. norvegicus_: positions 901–960 (query 16), with one and four differences, respectively; positions 361–420 (query 7), identical to _P. abelii_ and with five differences in _R. norvegicus_; and positions 121–180 (query 3), with one and six differences, respectively.
 
 Furthermore, in several positions, a substitution occurred in both species at the same time, and in most of these cases the substitution was in the same nucleotide (for instance, at position 606, where a guanine is changed to an adenine in both the orangutan and the rat).
 
-The protein alignment identified three highly conserved regions: positions 102–166 (queries 2 and 3), identical in _P. abelii_ and with only two differences in _R. norvegicus_; positions 241–300 (query 5), with one and two differences, respectively; and positions 181–240 (query 4), identical in P. abelii and with four differences in _R. norvegicus_.
+The protein alignment identified three highly conserved regions: positions 102–166 (queries 2 and 3), identical in _P. abelii_ and with only two differences in _R. norvegicus_; positions 241–300 (query 5), with one and two differences, respectively; and positions 181–240 (query 4), identical in _P. abelii_ and with four differences in _R. norvegicus_.
   
 Additionally, there were four positions where both species had variants (the last three also shared with _T. gondii_): 2, 180, 353 and 389.
 
@@ -114,7 +114,7 @@ One of the proposed mechanisms is that chronically elevated ornithine concentrat
 
 Not all nucleotide variants correspond to an amino-acid sequence variant because one amino-acid can correspond to more than one codon. Therefore, different combinations of nucleotides can lead to the same amino-acid combinations. For that reason, after doing the sequence alignment between the human, _Toxoplasma gondii_ and _Rattus norvegicus_, the three species appear more similar at the protein level. The change in one nucleotide does not necessarily mean the change in the amino-acid. Amino-acids are defined by codons, which are groups of three nucleotides. However, not all combinations of three nucleotides have their own corresponding amino-acid. Each amino-acid is usually paired with between 2 and 4 different codons. 
 
-If compared independently, Rattus norvegicus and Pongo abelii revealed a higher degree of conservation with the human than that of _Toxoplasma gondii_. Several regions of the nucleotide and protein sequences were identical or highly similar between humans and orangutans and rats, whereas greater sequence differences were observed in the comparisons involving the more distantly related species. That is due to evolution and the fact that the common ancestor of the three mammals is much closer than that of the protozoon and the human.
+If compared independently, _Rattus norvegicus_ and _Pongo abelii_ revealed a higher degree of conservation with the human than that of _Toxoplasma gondii_. Several regions of the nucleotide and protein sequences were identical or highly similar between humans and orangutans and rats, whereas greater sequence differences were observed in the comparisons involving the more distantly related species. That is due to evolution and the fact that the common ancestor of the three mammals is much closer than that of the protozoon and the human.
 
 The results suggest that the overall fold of OAT is conserved between humans and _T. gondii_, despite substantial differences in their amino acid sequences. The higher physicochemical similarity compared with sequence identity suggests that some amino acid substitutions preserve chemical properties that may contribute to structural stability. The low global RMSD further supports the conservation of the overall three-dimensional structure. Nevertheless, local differences in secondary structure and backbone displacement indicate that some regions may have evolved differently. Such differences may reflect variations in local flexibility or molecular interactions, although their functional consequences cannot be established from structural comparison alone.
 Furthermore,the increased backbone displacement observed around positions 384–388 may be explained by the presence of a loop region. Unlike α-helices and β-strands, loops are often more flexible and can adopt different conformations in homologous proteins. Furthermore, amino acid substitutions may alter local interactions and contribute to these structural differences. Therefore, the increased local displacement does not necessarily indicate a disruption of the overall protein fold.
@@ -165,7 +165,7 @@ Human Ornithine Aminotransferase (hOAT), Ornithine δ-aminotransferase (δ-OAT),
 
 ## **Declarations**
 
-The FASTA files used for sequence analysis and the structural comparison materials involving human OAT, Toxoplasma gondii OAT and the Arg180Thr variant were provided by the course instructors. The analyses and results obtained from these materials are presented in this report.
+The FASTA files used for sequence analysis and the structural comparison materials involving human OAT, _Toxoplasma gondii_ OAT and the Arg180Thr variant were provided by the course instructors. The analyses and results obtained from these materials are presented in this report.
 
 The BLAST accession number for the CDS is NM_000274, whilst the one used for the protein sequence is NP_000265.
 The UniProt ID for the protein is P04181.
@@ -193,7 +193,7 @@ Palmer E, Stepien KM, Campbell C, et al. Clinical, biochemical and molecular ana
 
 Storici P, Capitani G, Müller R, Schirmer T, Jansonius JN. Crystal structure of human ornithine aminotransferase complexed with the highly specific and potent inhibitor 5-fluoromethylornithine. J Mol Biol. 1999;285(1):297-309. doi:10.1006/jmbi.1998.2289
 
-Bisetegn H, Debash H, Ebrahim H, et al. Global seroprevalence of Toxoplasma gondii infection among patients with mental and neurological disorders: A systematic review and meta-analysis. Health Sci Rep. 2023;6(6):e1319. Published 2023 Jun 5. doi:10.1002/hsr2.1319
+Bisetegn H, Debash H, Ebrahim H, et al. Global seroprevalence of _Toxoplasma gondii_ infection among patients with mental and neurological disorders: A systematic review and meta-analysis. Health Sci Rep. 2023;6(6):e1319. Published 2023 Jun 5. doi:10.1002/hsr2.1319
 
 Montioli R, Paiardini A, Giardina G, et al. R180T variant of δ-ornithine aminotransferase associated with gyrate atrophy: biochemical, computational, X-ray and NMR studies provide insight into its catalytic features. FEBS J. 2019;286(14):2787-2798. doi:10.1111/febs.14843
 
