@@ -1,7 +1,7 @@
 <div align="center">
 
 # **Disease Project: Ornithine aminotransferase deficency**
-#### Clara Jiménez, Ana Sánchez, Veronica Wangchen
+#### Clara Jiménez, Ana Sánchez, Verónica Wangchen
 #### FIB, UPC, Barcelona, Spain
 
 </div>
