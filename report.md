@@ -30,6 +30,10 @@ Gyrate atrophy of the choroid and retina (GACR), also known as OAT deficiency, i
 
 According to Palmer et al. (2023), the median age at diagnosis among the 18 patients included in their study was eight years. Common initial manifestations include myopia and night vision problems. As the disease progresses, patients may develop a gradual loss of peripheral visual field, which can eventually lead to severe visual impairment.
 
+<img width="697" height="226" alt="image" src="https://github.com/user-attachments/assets/7c3b9fe8-b2ae-4255-a374-2061cbb41ac0" />
+figure 1. Left: affected retina by GACR (Palmer et al. (2023). Right: healthy retina
+
+
 Despite ornithine being highly present in the process of the urea cycle, there is little evidence of it having an effect on the retinal abnormalities present in GACR. The urea cycle has as its main objective to convert ammonia, a toxic chemical formed by protein catabolism, into urea waste. The process starts in the main liver cells, the hepatocytes. Ammonia and bicarbonate are converted into carbamoyl phosphate through carbamoyl phosphate synthetase 1 (CPS1). Then, carbamoyl phosphate binds to L-ornithine via ornithine transcarbamylase to form citrulline, which is transported to the cytosol and eventually gets broken down into arginine, which is converted into urea and ornithine by arginase. Therefore, as mentioned previously, there is hardly any correlation between the OAT deficiency and the urea cycle. Furthermore, the reaction that acts as a limitant and determines the speed of the overall system is the conversion of NH₃ and bicarbonate into carbamoyl phosphate with CPS1, which indicates again that the excessively high concentrations of ornithine in the blood that brings about GACR has nothing to do with the urea cycle.
 Currently, there is no definitive cure for GACR. However, dietary interventions aimed at reducing plasma ornithine levels may help manage the condition and potentially slow disease progression.
 
