@@ -162,6 +162,8 @@ However, as shown in the picture, the side chain disposition does present with m
 The key takeaway from the sequence alignment of the Wild Type and mutant protein is that the mutation overall does not affect the structure of the protein. If only it makes it more rigid and increases its stability. However, the interchange of amino acids does provoke a loss of salt bridges and steric clashes on the active site of the protein, which lead to problems with binding affinity, catalytic specificity and positioning of substrates.
 
 ### _Homologs_
+Overall, the cross-species alignment between Homo sapiens, Toxoplasma gondii and Rattus norvegicus showed only primary sequence conservation in stretches of maximum seven amino acids. Mostly with Toxoplasma gondii, the other two species had very little in common, except when looking at their structure. This leads to the conclusion that structure is more conserved than sequence throughout evolution. 
+
 The comparison revealed a high degree of sequence conservation between human OAT and Pongo abelii at both nucleotide and protein levels. In several regions, the sequences were identical or showed very few differences, consistent with the close evolutionary relationship between humans and orangutans. These findings suggest that some features of OAT have been conserved throughout evolution.
 
 ### _Structure_
