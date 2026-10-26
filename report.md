@@ -72,15 +72,6 @@ When working with the sequence alignments of the three original species, which w
 
 Also, there are very few sequence positions with variants across the three species. Only four amino-acids the mutation of which is the same in both Toxoplasma gondii and Rattus norvegicus. Furthermore, some regions are more conserved than others. For instance, both the Query range 4: 181 to 240  and the Query range 5: 241 to 300 have 39 amino-acids conserved. However, the Query range 1: 1 to 60 and the Query range 8: 421 to 439 have 7 and 5 amino-acids conserved respectively. 
 
-Query range 1: 1 to 60  has conserved amino-acids
-Query range 2: 61 to 120 has conserved amino-acids
-Query range 3: 121 to 180 has conserved amino-acids
-Query range 4: 181 to 240 has conserved amino-acids
-Query range 5: 241 to 300 has conserved amino-acids
-Query range 6: 301 to 360 has conserved amino-acids
-Query range 7: 361 to 420 has conserved amino-acids
-Query range 8: 421 to 439 has conserved amino-acids
-
 The multiple sequence alignment results showed that the addition of _Pongo abelii_ to the comparison with human OAT and _Rattus norvegicus_ facilitated the identification of highly conserved regions in both nucleotide and protein sequences.
 
 In the nucleotide sequence, there were several instances where the human and _P. abelii_ sequences coincided with over 60 nucleotides (for example, human positions 1281 to 1440), which made the conserved regions easier to distinguish. In total, three highly conserved regions were found between the human nucleotide sequence and those of _P. abelii_ and _Rattus norvegicus_:
