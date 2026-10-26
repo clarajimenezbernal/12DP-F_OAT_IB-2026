@@ -193,8 +193,6 @@ Palmer E, Stepien KM, Campbell C, et al. Clinical, biochemical and molecular ana
 
 Storici P, Capitani G, Müller R, Schirmer T, Jansonius JN. Crystal structure of human ornithine aminotransferase complexed with the highly specific and potent inhibitor 5-fluoromethylornithine. J Mol Biol. 1999;285(1):297-309. doi:10.1006/jmbi.1998.2289
 
-Buijs MJN, Balfoort BM, Brands MM, et al. Molecular and cellular mechanisms underlying gyrate atrophy: Why is the retina primarily affected?. Acta Ophthalmol. 2025;103(7):e436-e455. doi:10.1111/aos.17498 
-
 Bisetegn H, Debash H, Ebrahim H, et al. Global seroprevalence of Toxoplasma gondii infection among patients with mental and neurological disorders: A systematic review and meta-analysis. Health Sci Rep. 2023;6(6):e1319. Published 2023 Jun 5. doi:10.1002/hsr2.1319
 
 Montioli R, Paiardini A, Giardina G, et al. R180T variant of δ-ornithine aminotransferase associated with gyrate atrophy: biochemical, computational, X-ray and NMR studies provide insight into its catalytic features. FEBS J. 2019;286(14):2787-2798. doi:10.1111/febs.14843
