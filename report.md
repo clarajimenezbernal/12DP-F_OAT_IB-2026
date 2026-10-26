@@ -47,7 +47,6 @@ Comparing OAT sequences from different species can help identify evolutionarily 
 
 These comparisons provide an evolutionary context for interpreting sequence conservation and assessing whether the residue affected by the Arg180Thr variant is conserved across species. However, sequence conservation alone cannot establish the functional effect of a mutation or demonstrate that the same disease occurs in the other organisms
 
-
 ### _Structure_
 
 The three-dimensional structure of a protein provides information about the spatial arrangement of its amino acid residues and can help explain how sequence changes may affect its stability or function. In OAT, examining the position of a specific amino acid within the protein structure can provide insight into the potential consequences of a mutation. However, structural analysis alone cannot confirm whether a variant alters enzymatic activity; experimental evidence may be required to establish its functional effects.
@@ -60,7 +59,7 @@ Because the studied wild type sequence exhibits ten different isoforms, a search
 
 Regarding the protein’s wild type, there was only one difference; only one isoform matched the given FASTA file at 100%, which was the variant 1. The search for the mutant protein sequence resulted in the same WT protein sequence, at a query coverage, E value and identity percentage of 100%, 0.0, and 99.77% respectively.
 
-Lastly, each WT sequence was aligned to its corresponding mutation. For the nucleotide sequence mutated variant, it was revealed that there is a missense mutation in locus 539 (C>G). Concerning the comparison between the WT protein sequence and the mutated variant, there was a mutation in the amino-acid found in position 180, which is an Arginine (R) instead of a Threonine (T).
+Lastly, each WT sequence was aligned to its corresponding mutation. For the nucleotide sequence mutated variant, it was revealed that there is a missense mutation in locus 539 (C>G). Concerning the comparison between the WT protein sequence and the mutated variant, there was a mutation in the amino-acid found in position 180, which is an Threonin (T) instead of an Arginine (R).
 
 ###  _Homologs_
 When working with the sequence alignments of the three original species, which were Homo sapiens, Toxoplasma gondii and Rattus norvegicus, the last two being the homologs, it became obvious that the differences among their protein sequences were abysmal. The longest conserved regions across the three protein sequences are formed by 7 amino-acids. This might not be considered a high conservation but, the three species are too different among them to have any longer coincidental regions. There are only four amino-acids the mutation of which is the same in both Toxoplasma gondii and Rattus norvegicus. 
