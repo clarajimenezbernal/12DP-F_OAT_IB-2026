@@ -80,8 +80,8 @@ Ornithine aminotransferase belongs to the a/b structural class, meaning that hel
 
 The comparison between human OAT and its _Toxoplasma gondii_ ortholog revealed a sequence identity of 51.2% and a physicochemical similarity of 70.0%. Despite these sequence differences, the superimposed structures showed a global RMSD of 1.33 Å, indicating a high degree of structural similarity. The alignment also revealed regions with conserved secondary structure elements, including α-helices and β-strands, alongside local differences in secondary structure and backbone displacement.
 Although local backbone displacement was generally similar across most of the aligned regions there were two notable exceptions. Around positions 355–361, some residues could not be directly compared because corresponding structural information was unavailable in one of the proteins. A second region of increased displacement was observed around positions 384–388, corresponding to a loop region.
-<img width="617" height="346" alt="image" src="https://github.com/user-attachments/assets/3cc1603b-a5e0-4d3d-a7fd-ea5790ac60a8" />
 
+<img width="617" height="346" alt="image" src="https://github.com/user-attachments/assets/3cc1603b-a5e0-4d3d-a7fd-ea5790ac60a8" />
 figure 3. Structure comparison between _T.gondii_ and _H.sapiens_ (given by teachers)
 
 
@@ -123,7 +123,6 @@ When analyzing the structure of the human protein, there were a few very interes
 However, as shown in figure 4, the side chain disposition does present with more alterations. Whereas the arginine (WT) side chain extends outwards to facilitate interactions with other molecules, the threonine (mutant) side chain is a lot shorter, which explains the loss of binding abilities.
 
 <img width="3024" height="1544" alt="image" src="https://github.com/user-attachments/assets/27baf1f7-7ad6-48a0-8064-1ac3142faf26" />
-
 figure 4. WT versus mutant structural view
 
 
@@ -171,13 +170,11 @@ The BLAST accession number for the CDS is NM_000274, whilst the one used for the
 The UniProt ID for the protein is P04181.
 As for the PDB IDs, 6XH7 is the protein for the mutant hOAT and 10LW is the WT hOAT. For _Toxoplasma gondii_, it is 5EAV. For the Gyrate Atrophy in OMIM, it is #258870.
 
-
 **Ana Sánchez Rebollo — Developer**: Contributed to the development and execution of project tasks, scientific analysis, interpretation of information, and communication of progress and problems.
 
 **Veronica Wangchen — Project Manager**: Coordinated the team's workflow and communication, monitored progress and deadlines, organised meetings when necessary, and reviewed project deliverables.
 
 **Clara Jiménez Bernal — Project Owner**: Defined and prioritised project objectives, communicated the project scope and requirements, and ensured that the work remained aligned with the project's main goal.
-
 
 ## **References**
 
