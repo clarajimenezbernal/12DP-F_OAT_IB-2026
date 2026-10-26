@@ -189,4 +189,6 @@ Bisetegn H, Debash H, Ebrahim H, et al. Global seroprevalence of Toxoplasma gond
 
 Montioli R, Paiardini A, Giardina G, et al. R180T variant of δ-ornithine aminotransferase associated with gyrate atrophy: biochemical, computational, X-ray and NMR studies provide insight into its catalytic features. FEBS J. 2019;286(14):2787-2798. doi:10.1111/febs.14843
 
+Sociedad Española de Retina y Vítreo (SERV). ¿Qué es la retina? https://serv.es/fundacionretinaplus/que-es-la-retina-2/
+
 </div>
