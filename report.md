@@ -61,11 +61,6 @@ Regarding the protein’s wild type, there was only one difference; only one iso
 
 Lastly, each WT sequence was aligned to its corresponding mutation. For the nucleotide sequence mutated variant, it was revealed that there is a non-conservative missense point mutation in locus 539 (C>G). Concerning the comparison between the WT protein sequence and the mutated variant, there was a mutation in the amino-acid found in position 180, which is an Arginine (R) instead of a Threonine (T).
 
-In the molecule, the overall structure and oligomeric state remain the same, which means that the mutation does not carry extremely significant structural changes. However, the change can cause small rearranges such as Gly320’ shifting towards the active site. This can lead to steric interferences with the carboxyl group and make it difficult for the other substrates to bind onto the molecule
-
-Also, this ⍺-carboxylate ionic interaction anchors the substrate in the one correct orientation. When Arginine is lost in the mutation, the binding affinity of the carboxyl group for ornithine is also lost. A different Arginine from a different position might intervene and take over.
-
-Therefore, this mutation means two very significant things for the protein. The first one is that it increases its structural stability. The second one is that it disrupts what should be the actual positioning of the substrate in order for the molecule to undergo normal catalysis. Thus, the protein’s ability to recognise a substrate and its reaction specificity are more altered than the actual overall structure.
 
 ###  _Homologs_
 When working with the sequence alignments of the three original species, which were Homo sapiens, Toxoplasma gondii and Rattus norvegicus, the last two being the homologs, it became obvious that the differences among their protein sequences were abysmal. The longest conserved regions across the three protein sequences are formed by 7 amino-acids. This might not be considered a high conservation but, the three species are too different among them to have any longer coincidental regions. There are only four amino-acids the mutation of which is the same in both Toxoplasma gondii and Rattus norvegicus. 
@@ -118,6 +113,14 @@ Although local backbone displacement was generally similar across most of the al
 From the structure superposition of human WT and human mutant proteins it was obtained that its local backbone displacement in position 180 measures at 0.049 Å, making it practically negligible. Even though the average deviation of the entire protein structure is 0.394 Å , this is still a very minimal change (under 1 Å) and it proves that the interchanging of one single amino-acid does not cause any big structural damages. Therefore, the disease caused by the mutation must be due to chemical disadjustments.
 
 ## **Discussion**
+
+### _Genomics_
+In the molecule, the overall structure and oligomeric state remain the same, which means that the mutation does not carry extremely significant structural changes. However, the change can cause small rearranges such as Gly320’ shifting towards the active site. This can lead to steric interferences with the carboxyl group and make it difficult for the other substrates to bind onto the molecule
+
+Also, this ⍺-carboxylate ionic interaction anchors the substrate in the one correct orientation. When Arginine is lost in the mutation, the binding affinity of the carboxyl group for ornithine is also lost. A different Arginine from a different position might intervene and take over.
+
+Therefore, this mutation means two very significant things for the protein. The first one is that it increases its structural stability. The second one is that it disrupts what should be the actual positioning of the substrate in order for the molecule to undergo normal catalysis. Thus, the protein’s ability to recognise a substrate and its reaction specificity are more altered than the actual overall structure.
+
 Between Arginine and Threonine there are some differing properties that are worth mentioning. Whereas Arginine is a large molecule with a 174.20 g/mol molecular weight, Threonine is considered to be small to medium and its molecular weight is 119.12 g/mol. The reason for this is that the first molecule features a long 3-carbon aliphatic chain ending in a complex guanidino group and the second one only a short hydroxyethyl group.
 
 Also, Arginine is highly polar and amphipathic whereas Threonine is only polar. Arginine’s guanidino group is very hydrophilic but its carbon backbone offers a slight hydrophobic character closer to the main chain. Threonine is polar because its side chain contains a hydrophilic hydroxyl group (-OH) which is capable of forming hydrogen bonds. At a neutral pH, Arginine has a positive charge and side chain, which is very basic, stays protonated under physiological conditions. Threonine, on the other hand, does not have a charge and its side chain is neither acidic nor basic. 
