@@ -155,6 +155,11 @@ When analyzing the structure of the human protein, there were a few very interes
 
 However, as shown in the picture, the side chain disposition does present with more alterations. Whereas the arginine (WT) side chain extends outwards to facilitate interactions with other molecules, the threonine (mutant) side chain is a lot shorter, which explains the loss of binding abilities.
 
+###_limitations_
+
+Throughout this project, there have been some limitations related to the investigation of the protein. First of all, there were no actual lab experiments done, so some of the conclusions related to the mechanism of the disease ended up somewhat vague. This is due to the fact that the reason as to why the excess of concentration of L-ornithine causes the degradation of the retinal epithelium is not entirely clear (Montioli et al. , 2019) Moreover, when analyzing the structure superposition of the homolog proteins, the video inside the program itself would not show the entire 360º rotation of said, which made it harder to identify the different lengths of the sequence structure. 
+
+
 ## **Conclusions**
 ### _Proteomics_
 The key takeaway from the sequence alignment of the Wild Type and mutant protein is that the mutation overall does not affect the structure of the protein. If only it makes it more rigid and increases its stability. However, the interchange of amino acids does provoke a loss of salt bridges and steric clashes on the active site of the protein, which lead to problems with binding affinity, catalytic specificity and positioning of substrates.
