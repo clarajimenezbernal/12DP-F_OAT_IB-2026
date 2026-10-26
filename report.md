@@ -31,6 +31,7 @@ Gyrate atrophy of the choroid and retina (GACR), also known as OAT deficiency, i
 According to Palmer et al. (2023), the median age at diagnosis among the 18 patients included in their study was eight years. Common initial manifestations include myopia and night vision problems. As the disease progresses, patients may develop a gradual loss of peripheral visual field, which can eventually lead to severe visual impairment.
 
 <img width="697" height="226" alt="image" src="https://github.com/user-attachments/assets/7c3b9fe8-b2ae-4255-a374-2061cbb41ac0" />
+
 figure 1. Left: affected retina by GACR (Palmer et al. (2023). Right: healthy retina
 
 
