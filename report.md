@@ -56,13 +56,11 @@ Comparing human OAT with OAT from other organisms can help identify structural f
 
 ## **Results**
 ### _Genomics and proteomics_
+Because the studied wild type sequence exhibits ten different isoforms, a search was conducted so as to determine whether the first isoform had the mutation of interest. This analysis confirmed that the mutation was present in the isoform, and thus, it was selected for the study. The CDS for said isoform has the gene located in the locus 10q26.13, found in the chromosome 10. Additionally, it contains 13 exons, and it is expressed in tissues such as the intestines, although it can also be found in 208 other cell types or tissues throughout adrenal, lung, stomach and even heart tissues. As for the mutant CDS sequence, it had a query coverage of 100%, a 0.0 E value and a 99.92% identity to the same isoform. 
 
-Because the studied wild type sequence exhibits ten different isoforms, a search was conducted so as to determine whether the first isoform had the mutation of interest. This analysis confirmed that the mutation was present in the isoform, and thus, it was selected for the study. The CDS for said isoform has an accession number of NM_000274, with the gene located in the locus 10q26.13, found in the chromosome 10. Additionally, it contains 13 exons, and it is expressed in tissues such as the intestines, although it can also be found in 208 other cell types or tissues throughout adrenal, lung, stomach and even heart tissues. As for the mutant CDS sequence, it had a query coverage of 100%, a 0.0 E value and a 99.92% identity to the same isoform. 
+Regarding the protein’s wild type, there was only one difference; only one isoform matched the given FASTA file at 100%, which was the variant 1. The search for the mutant protein sequence resulted in the same WT protein sequence, at a query coverage, E value and identity percentage of 100%, 0.0, and 99.77% respectively.
 
-Regarding the protein’s wild type, there was only one difference; only one isoform matched the given FASTA file at 100%, which was the variant 1. The accession number of said sequence was NP_000265. The search for the mutant protein sequence resulted in said accession number’s protein sequence at a query coverage, E value and identity percentage of 100%, 0.0 and 99.77% respectively.
-
-Lastly, each WT sequence was aligned to its corresponding mutation. For the nucleotide sequence mutated variant, it was revealed that there is a non-conservative missense point mutation in locus 539 (C>G). Concerning the comparison between the WT protein sequence and the mutated variant, there was a mutation in the amino-acid found in position 180, which is an Arginine (R) instead of a Threonine (T).
-
+Lastly, each WT sequence was aligned to its corresponding mutation. For the nucleotide sequence mutated variant, it was revealed that there is a missense mutation in locus 539 (C>G). Concerning the comparison between the WT protein sequence and the mutated variant, there was a mutation in the amino-acid found in position 180, which is an Arginine (R) instead of a Threonine (T).
 
 ###  _Homologs_
 When working with the sequence alignments of the three original species, which were Homo sapiens, Toxoplasma gondii and Rattus norvegicus, the last two being the homologs, it became obvious that the differences among their protein sequences were abysmal. The longest conserved regions across the three protein sequences are formed by 7 amino-acids. This might not be considered a high conservation but, the three species are too different among them to have any longer coincidental regions. There are only four amino-acids the mutation of which is the same in both Toxoplasma gondii and Rattus norvegicus. 
@@ -192,6 +190,8 @@ Human Ornithine Aminotransferase (hOAT), Ornithine δ-aminotransferase (δ-OAT),
 ## **Declarations**
 
 The FASTA files used for sequence analysis and the structural comparison materials involving human OAT, Toxoplasma gondii OAT and the Arg180Thr variant were provided by the course instructors. The analyses and results obtained from these materials are presented in this report.
+
+The accession number for the CDS is NM_000274, whilst the one used for the protein sequence is NP_000265
 
 **Ana Sánchez Rebollo — Developer**: Contributed to the development and execution of project tasks, scientific analysis, interpretation of information, and communication of progress and problems.
 
