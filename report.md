@@ -23,8 +23,8 @@ OAT, gyrate atrophy, OAT deficiency, _Toxoplasma gondii_, _Rattus norvegicus_, A
 ## **Background**
 This study aims to investigate the molecular basis of gyrate atrophy associated with the OAT gene, focusing on the Arg180Thr variant. Through bioinformatics analyses, the study examines the genetic and protein sequence differences between the reference and disease-associated states, explores the potential structural and functional consequences of the variant, and compares OAT across humans and other selected species to identify conserved features and assess their possible biological significance. Finally, these analyses aim to explain how changes in the OAT gene and its encoded protein may contribute to the development of the disease and affect normal biological function.
 
-Human Ornithine Aminotransferase (hOAT), otherwise known as ornithine δ-aminotransferase (δ-OAT), is a mitochondrial enzyme involved in amino acid metabolism,  found mostly concentrated in the liver, intestines, kidneys and retina. In most tissues, OAT  catalyses the conversion of ornithine and α-ketoglutarate into glutamate-5-semialdehyde (GSA) and glutamate, maintaining the ornithine level in mitochondria stable (_Sun 2017, Floriani 2026_).
-The reaction itself depends on pyridoxal 5'-phosphate (PLP) to act as its cofactor. δ-OAT undergoes two half-reactions. For the first half, a PLP binds to each of the three monomers from OAT (since it is a trimer), forming an aldimine bridge, and when the reaction goes through the catalysis, a proton from the δ-carbon from ornithine transfers to the C4’ carbon of PLP, which modifies the aldimine between PLP and L-ornithine into an aldimine between pyridoxamine-5’-phosphate (PMP) and l-glutamate-γ-semialdehyde. Consequently, a water molecule breaks the bridge, and since PMP and GSA are unstable on their own, they fuse together and form a ring. Finally, 2-oxoglutarate enters the reaction, beginning the second half-reaction. Then, PMP gives up an amino acid, turning this last molecule into L-glutamate. This allows PMP to return to its previous PLP state and restart the catalytic activity (_Shen 1998_).
+Human Ornithine Aminotransferase (hOAT), otherwise known as ornithine δ-aminotransferase (δ-OAT), is a mitochondrial enzyme involved in amino acid metabolism,  found mostly concentrated in the liver, intestines, kidneys and retina. In most tissues, OAT  catalyses the conversion of ornithine and α-ketoglutarate into glutamate-5-semialdehyde (GSA) and glutamate, maintaining the ornithine level in mitochondria stable (Floriani 2026).
+The reaction itself depends on pyridoxal 5'-phosphate (PLP) to act as its cofactor. δ-OAT undergoes two half-reactions. For the first half, a PLP binds to each of the three monomers from OAT (since it is a trimer), forming an aldimine bridge, and when the reaction goes through the catalysis, a proton from the δ-carbon from ornithine transfers to the C4’ carbon of PLP, which modifies the aldimine between PLP and L-ornithine into an aldimine between pyridoxamine-5’-phosphate (PMP) and l-glutamate-γ-semialdehyde. Consequently, a water molecule breaks the bridge, and since PMP and GSA are unstable on their own, they fuse together and form a ring. Finally, 2-oxoglutarate enters the reaction, beginning the second half-reaction. Then, PMP gives up an amino acid, turning this last molecule into L-glutamate. This allows PMP to return to its previous PLP state and restart the catalytic activity (Shen 1998).
 
 <img width="917" height="256" alt="image" src="https://github.com/user-attachments/assets/215c469d-a399-4d45-907c-92780b6f1db9" />
 
@@ -36,7 +36,7 @@ According to _Palmer et al._ (2023), the median age at diagnosis among the 18 pa
 
 <img width="697" height="226" alt="image" src="https://github.com/user-attachments/assets/7c3b9fe8-b2ae-4255-a374-2061cbb41ac0" />
 
-figure 2. Left: affected retina by GACR (_Palmer et al., 2023_). Right: healthy retina (_SERV_)
+figure 2. Left: affected retina by GACR (Palmer et al., 2023). Right: healthy retina (_SERV_)
 
 
 Despite ornithine being highly present in the process of the urea cycle, there is little evidence of it having an effect on the retinal abnormalities present in GACR. The urea cycle has as its main objective to convert ammonia, a toxic chemical formed by protein catabolism, into urea waste. The process starts in the main liver cells, the hepatocytes. Ammonia and bicarbonate are converted into carbamoyl phosphate through carbamoyl phosphate synthetase 1 (CPS1). Then, carbamoyl phosphate binds to L-ornithine via ornithine transcarbamylase to form citrulline, which is transported to the cytosol and eventually gets broken down into arginine, which is converted into urea and ornithine by arginase. Therefore, as mentioned previously, there is hardly any correlation between the OAT deficiency and the urea cycle. Furthermore, the reaction that acts as a limitant and determines the speed of the overall system is the conversion of NH₃ and bicarbonate into carbamoyl phosphate with CPS1, which indicates again that the excessively high concentrations of ornithine in the blood that brings about GACR has nothing to do with the urea cycle.
@@ -82,6 +82,7 @@ The comparison between human OAT and its _Toxoplasma gondii_ ortholog revealed a
 Although local backbone displacement was generally similar across most of the aligned regions there were two notable exceptions. Around positions 355–361, some residues could not be directly compared because corresponding structural information was unavailable in one of the proteins. A second region of increased displacement was observed around positions 384–388, corresponding to a loop region.
 
 <img width="617" height="346" alt="image" src="https://github.com/user-attachments/assets/3cc1603b-a5e0-4d3d-a7fd-ea5790ac60a8" />
+
 figure 3. Structure comparison between _T.gondii_ and _H.sapiens_ (given by teachers)
 
 
@@ -160,7 +161,7 @@ In order to analyse the protein’s structure, the sequence ID for the protein w
 
 ## **Abbreviations**
 
-Human Ornithine Aminotransferase (hOAT), Ornithine δ-aminotransferase (δ-OAT), Ornithine Aminotransferase (OAT), Gyrate Atrophy (GACR), Coding DNA Sequence (CDS), Transfer RNA (tRNA), pyridoxal 5'-phosphate (PLP), pyridoxamine-5’-phosphate (PMP), glutamate-5-semialdehyde or l-glutamate-γ-semialdehyde (GSA), wild type (WT)
+Human Ornithine Aminotransferase (hOAT), Ornithine δ-aminotransferase (δ-OAT), Ornithine Aminotransferase (OAT), Gyrate Atrophy (GACR), Transfer RNA (tRNA), pyridoxal 5'-phosphate (PLP), pyridoxamine-5’-phosphate (PMP), glutamate-5-semialdehyde or l-glutamate-γ-semialdehyde (GSA), wild type (WT), carbamoyl phosphate synthetase 1 (CPS1).
 
 ## **Declarations**
 
@@ -183,9 +184,6 @@ Floriani F, Borri Voltattorni C, Montioli R. Current Insight into Human Ornithin
 Shen BW, Hennig M, Hohenester E, Jansonius JN, Schirmer T. Crystal structure of human recombinant ornithine aminotransferase. J Mol Biol. 1998;277(1):81-102. doi:10.1006/jmbi.1997.1583
 
 Elnahry AG, Tripathy K. Gyrate Atrophy of the Choroid and Retina. In: StatPearls. Treasure Island (FL): StatPearls Publishing; August 25, 2023. 
-
-Sun Q. Cerebral creatine deficiency syndromes, In Biomarkers in Inborn Errors of Metabolism: Clinical Aspects and Laboratory Determination. Elsevier,
-2017, pages 331-341
 
 Buijs MJN, Balfoort BM, Brands MM, et al. Molecular and cellular mechanisms underlying gyrate atrophy: Why is the retina primarily affected?. Acta Ophthalmol. 2025;103(7):e436-e455. doi:10.1111/aos.17498
 
